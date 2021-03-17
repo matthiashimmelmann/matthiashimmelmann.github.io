@@ -6,12 +6,11 @@
 </tr>
 <tr>
     <td>2018 - 2021</td>
-    <td>M.Sc. in Mathematics at the Free University of Berlin <br /> <i>Master's Thesis:</i> Generalized Principal Component Analysis for Algebraic Varieties<br />
-      supervised by Bernd Sturmfels and Christian Haase</td>
+    <td>M.Sc. in Mathematics at the Free University of Berlin</td>
 </tr>
 <tr>
     <td>2014 - 2018</td>
-    <td>B.Sc. in Mathematics at the Free University of Berlin <br /><i>Bachelor's Thesis:</i> Galois and Fundamental Groups on Riemann Surfaces<br /> supervised by Shane Kelly and Klaus Altmann</td>
+    <td>B.Sc. in Mathematics at the Free University of Berlin</td>
 </tr>
 <tr>
   &nbsp;
