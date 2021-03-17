@@ -1,4 +1,4 @@
-I am a first year PhD student at the University of Potsdam and Berlin Mathematical School under the supervision of Myfanwy Evans. My main fields of interest are applied algebraic geometry and data science and I am always looking for interesting ways to intersect these topics.  
+I am a first year PhD student at the Universität Potsdam and Berlin Mathematical School under the supervision of Myfanwy Evans. My main fields of interest are applied algebraic geometry and data science and I am always looking for interesting ways to intersect these topics.  
 
 Using code, I try to develop tools that help to model and visualize mathematics. At the moment, I am trying to apply algebro-geometric techniques to better understand discontinuous behavior of materials, especially tensegrity framework.  
 
@@ -8,12 +8,11 @@ In the following, a few milestones in my academic career are listed.
 <tr> <td><h3>Education</h3></td></tr>
 <tr>
     <td>2021 - today</td>
-    <td>PhD student at the University of Potsdam under the Supervision of Myfanwy Evans<br>
-    Phase II student at the Berlin Mathematical School</td>
+    <td>PhD student at the Universität Potsdam under the supervision of Myfanwy Evans and Phase II student at the Berlin Mathematical School</td>
 </tr>
 <tr>
     <td>2018 - 2021</td>
-    <td>M.Sc. in Mathematics at the Free University of Berlin</td>
+    <td>M.Sc. in Mathematics at the Freie Universität Berlin</td>
 </tr>
  <tr>
     <td>2017 - 2018</td>
@@ -21,16 +20,16 @@ In the following, a few milestones in my academic career are listed.
 </tr>
 <tr>
     <td>2014 - 2018</td>
-    <td>B.Sc. in Mathematics at the Free University of Berlin</td>
+    <td>B.Sc. in Mathematics at the Freie Universität Berlin</td>
 </tr>
 <tr> <td><h3><br>Teaching</h3></td> </tr>
 <tr>
     <td>2020</td>
-    <td>Tutor in Computeralgebra</td>
+    <td>Tutor of Computeralgebra</td>
 </tr>
 <tr>
     <td>2016-2017</td>
-    <td>Tutor in Computer-oriented Mathematics II and Mathematics for Geoscientists I and II</td>
+    <td>Tutor of Computer-oriented Mathematics II and Mathematics for Geoscientists I and II</td>
 </tr>
 <tr>
   <td><h3><br>Publications</h3></td>
