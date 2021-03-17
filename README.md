@@ -42,7 +42,7 @@ Using code, I try to develop tools that help to model and visualize mathematics.
 </tr>
 <tr>
   <td>2020</td>
-  <td><a href="https://github.com/matthiashimmelmann/LearnVanishingIdeal.jl">LearnVanishingIdeal.jl</a>: A Julia package for learning the vanishing ideal corresponding to a point cloud under given degrees of the involved polynomial generators.</td>
+  <td><a href="https://github.com/matthiashimmelmann/LearnVanishingIdeal.jl">LearnVanishingIdeal.jl</a>: A Julia package for learning a vanishing ideal from a point cloud.</td>
 </tr>
 <tr>
   &nbsp;
