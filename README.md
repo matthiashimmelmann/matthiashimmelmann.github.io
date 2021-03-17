@@ -11,11 +11,15 @@ In the following, a few milestones in my academic career are listed.
     <td>PhD student at the University of Potsdam under the Supervision of Myfanwy Evans</td>
 </tr>
 <tr>
+    <td>2021 - today</td>
+    <td>Phase II student at the Berlin Mathematical School</td>
+</tr>
+<tr>
     <td>2018 - 2021</td>
     <td>M.Sc. in Mathematics at the Free University of Berlin</td>
 </tr>
  <tr>
-    <td>2017</td>
+    <td>2017 - 2018</td>
     <td>Erasmus Semester at the Universitetet i Oslo</td>
 </tr>
 <tr>
