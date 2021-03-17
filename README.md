@@ -13,7 +13,10 @@
     <td>2014 - 2018</td>
     <td>B.Sc. in Mathematics at the Free University of Berlin <br /><i>Bachelor's Thesis:</i> Galois and Fundamental Groups on Riemann Surfaces<br /> supervised by Shane Kelly and Klaus Altmann</td>
 </tr>
-<tr> <td><h3><br>Conferences</h3></td></tr>
+<tr>
+  &nbsp;
+</tr>
+<tr> <td><h3>Conferences</h3></td></tr>
 <tr>
     <td>2021</td>
     <td>Participation in the Thematic Program on Geometric Constraint Systems, Framework Rigidity  and <br /> Distance Geometry at the Fields Institute, Toronto</td>
@@ -21,6 +24,9 @@
 <tr>
     <td>2019</td>
     <td>Participation in the Fall School, Conference and Research Retreat in the Thematic Einstein Semester <br />  Varieties, Polyhedra and Computations, Berlin</td>
+</tr>
+<tr>
+  &nbsp;
 </tr>
 <tr> <td><h3><br>Teaching</h3></td> </tr>
 <tr>
@@ -30,6 +36,9 @@
 <tr>
     <td>2016-2017</td>
     <td>Tutor in Computer-oriented Mathematics II and Mathematics for Geoscientists I and II</td>
+</tr>
+<tr>
+  &nbsp;
 </tr>
 <tr> 
   <td><h3><br>Articles</h3></td>
