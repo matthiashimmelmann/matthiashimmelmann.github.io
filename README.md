@@ -52,10 +52,12 @@ In the following, I list a few milestones in my academic career.
 <tr> <td><h3><br>Conferences</h3></td></tr>
 <tr>
     <td>2021</td>
-    <td>Participation in the Thematic Program on Geometric Constraint Systems, Framework Rigidity  and <br /> Distance Geometry at the Fields Institute, Toronto</td>
+    <td>Participation in the Thematic Program on Geometric Constraint Systems, Framework Rigidity and Distance Geometry<br/>
+        Fields Institute, Toronto</td>
 </tr>
 <tr>
     <td>2019</td>
-    <td>Participation in the Fall School, Conference and Research Retreat in the Thematic Einstein Semester <br />  Varieties, Polyhedra and Computations, Berlin</td>
+    <td>Participation in the Fall School, Conference and Research Retreat <br/>
+        Thematic Einstein Semester Varieties, Polyhedra and Computations, Berlin</td>
 </tr>
 </table>
