@@ -8,11 +8,8 @@ In the following, a few milestones in my academic career are listed.
 <tr> <td><h3>Education</h3></td></tr>
 <tr>
     <td>2021 - today</td>
-    <td>PhD student at the University of Potsdam under the Supervision of Myfanwy Evans</td>
-</tr>
-<tr>
-    <td>2021 - today</td>
-    <td>Phase II student at the Berlin Mathematical School</td>
+    <td>PhD student at the University of Potsdam under the Supervision of Myfanwy Evans<br>
+    Phase II student at the Berlin Mathematical School</td>
 </tr>
 <tr>
     <td>2018 - 2021</td>
