@@ -16,7 +16,7 @@
 <tr>
   &nbsp;
 </tr>
-<tr> <td><h3>Conferences</h3></td></tr>
+<tr> <td><h3><br>Conferences</h3></td></tr>
 <tr>
     <td>2021</td>
     <td>Participation in the Thematic Program on Geometric Constraint Systems, Framework Rigidity  and <br /> Distance Geometry at the Fields Institute, Toronto</td>
@@ -28,7 +28,7 @@
 <tr>
   &nbsp;
 </tr>
-<tr> <td><h3><br>Teaching</h3></td> </tr>
+<tr> <td><h3><br><br>Teaching</h3></td> </tr>
 <tr>
     <td>2020</td>
     <td>Tutor in Computeralgebra</td>
