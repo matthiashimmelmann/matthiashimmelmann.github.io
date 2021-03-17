@@ -24,7 +24,7 @@
     <td>2019</td>
     <td>Participation in the Fall School, Conference and Research Retreat in the Thematic Einstein Semester <br />  Varieties, Polyhedra and Computations, Berlin</td>
 </tr>
-<tr> Teaching
+<tr> <td><h3>Teaching</h3><td> </tr>
 <tr>
     <td>2020</td>
     <td>Tutor in Computeralgebra</td>
