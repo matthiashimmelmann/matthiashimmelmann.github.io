@@ -34,7 +34,7 @@
   <td>2018</td>
   <td>Galois and Fundamental Groups on Riemann Surfaces</td>
 </tr>
-<tr><td><h3>Software Projects></h3></td></tr>
+<tr><td><h3>Software Projects</h3></td></tr>
 <tr>
   <td>2021</td>
   <td><a href="https://github.com/matthiashimmelmann/equilibriaTensegrityFramework.jl">equilibriaTensegrityFramework.jl</a></td>
