@@ -7,7 +7,7 @@
 </tr>
 <tr>
     <td>2018 - 2021</td>
-    <td>M.Sc. in Mathematics at the Free University of Berlin <br /> <b>Master's Thesis:</b> Generalized Principal Component Analysis for Algebraic Varieties<br />
+    <td>M.Sc. in Mathematics at the Free University of Berlin <br /> <i>Master's Thesis:</i> Generalized Principal Component Analysis for Algebraic Varieties<br />
       supervised by Christian Haase and Bernd Sturmfels</td>
 </tr>
 <tr>
