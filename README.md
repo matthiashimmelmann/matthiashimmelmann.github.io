@@ -34,7 +34,6 @@
     <td>Tutor in Computer-oriented Mathematics II and Mathematics for Geoscientists I and II</td>
 </tr>
 <br />
-<br />
 <tr> 
   <td><h3>Articles</h3></td>
 </tr>
