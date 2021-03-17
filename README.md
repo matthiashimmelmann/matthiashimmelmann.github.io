@@ -13,7 +13,7 @@
     <td>2014 - 2018</td>
     <td>B.Sc. in Mathematics at the Free University of Berlin <br /><i>Bachelor's Thesis:</i> Galois and Fundamental Groups on Riemann Surfaces<br /> supervised by Shane Kelly and Klaus Altmann</td>
 </tr>
-<tr> <td><h3>Conferences</h3></td></tr>
+<tr> <td><h3><br>Conferences</h3></td></tr>
 <tr>
     <td>2021</td>
     <td>Participation in the Thematic Program on Geometric Constraint Systems, Framework Rigidity  and <br /> Distance Geometry at the Fields Institute, Toronto</td>
@@ -22,7 +22,7 @@
     <td>2019</td>
     <td>Participation in the Fall School, Conference and Research Retreat in the Thematic Einstein Semester <br />  Varieties, Polyhedra and Computations, Berlin</td>
 </tr>
-<tr> <td><h3>Teaching</h3></td> </tr>
+<tr> <td><h3><br>Teaching</h3></td> </tr>
 <tr>
     <td>2020</td>
     <td>Tutor in Computeralgebra</td>
@@ -32,7 +32,7 @@
     <td>Tutor in Computer-oriented Mathematics II and Mathematics for Geoscientists I and II</td>
 </tr>
 <tr> 
-  <td><h3>Articles</h3></td>
+  <td><h3><br>Articles</h3></td>
 </tr>
 <tr>
   <td>2021</td>
@@ -42,7 +42,7 @@
   <td>2018</td>
   <td>Galois and Fundamental Groups on Riemann Surfaces (<a href="/documents/bachelorarbeit.pdf">Bachelor's Thesis</a>)</td>
 </tr>
-<tr><td><h3>Software Projects</h3></td></tr>
+<tr><td><h3><br>Software Projects</h3></td></tr>
 <tr>
   <td>2021</td>
   <td><a href="https://github.com/matthiashimmelmann/equilibriaTensegrityFramework.jl">equilibriaTensegrityFramework.jl</a></td>
