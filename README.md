@@ -1,5 +1,4 @@
-<table cellspacing="0" cellpadding="0" style="width:100%">
-
+<table style="width:100%">
 <tr> <td><h3>Education</h3></td></tr>
 <tr>
     <td>2021 - today</td>
@@ -15,6 +14,7 @@
     <td>B.Sc. in Mathematics at the Free University of Berlin <br /><i>Bachelor's Thesis:</i> Galois and Fundamental Groups on Riemann Surfaces<br /> supervised by Shane Kelly and Klaus Altmann</td>
 </tr>
 <br />
+<tr><b></tr>
 <tr> <td><h3>Conferences</h3></td></tr>
 <tr>
     <td>2021</td>
@@ -24,19 +24,14 @@
     <td>2019</td>
     <td>Participation in the Fall School, Conference and Research Retreat in the Thematic Einstein Semester <br />  Varieties, Polyhedra and Computations, Berlin</td>
 </tr>
-<tr> <td><h3>Teaching</h3><td> </tr>
+<tr> <td><h3>Teaching</h3></td> </tr>
 <tr>
     <td>2020</td>
     <td>Tutor in Computeralgebra</td>
 </tr>
 <tr>
     <td>2016-2017</td>
-    <td>Tutor in Computer-oriented Mathematics II and Mathematics for Geoscientists I and II
-</tr>
-
-<tr>
-    <td>2019</td>
-    <td>Participation in the Fall School, Conference and Research Retreat in the Thematic Einstein Semester <br />  Varieties, Polyhedra and Computations, Berlin</td>
+    <td>Tutor in Computer-oriented Mathematics II and Mathematics for Geoscientists I and II</td>
 </tr>
 <br />
 <br />
