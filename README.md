@@ -40,11 +40,11 @@
 </tr>
 <tr>
   <td>2021</td>
-  <td>Generalized Principal Component Analysis for Algebraic Varieties</td>
+  <td>Generalized Principal Component Analysis for Algebraic Varieties (<a href="/documents/Masterarbeit_Himmelmann_GPCA.pdf">Master's Thesis</a>)</td>
 </tr>
 <tr>
   <td>2018</td>
-  <td>Galois and Fundamental Groups on Riemann Surfaces</td>
+  <td>Galois and Fundamental Groups on Riemann Surfaces (<a href="/documents/bachelorarbeit.pdf">Bachelor's Thesis</a>)</td>
 </tr>
 <br />
 <tr><td><h3>Software Projects</h3></td></tr>
