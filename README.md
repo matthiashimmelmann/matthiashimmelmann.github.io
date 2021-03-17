@@ -13,8 +13,6 @@
     <td>2014 - 2018</td>
     <td>B.Sc. in Mathematics at the Free University of Berlin <br /><i>Bachelor's Thesis:</i> Galois and Fundamental Groups on Riemann Surfaces<br /> supervised by Shane Kelly and Klaus Altmann</td>
 </tr>
-<br />
-<tr><b></tr>
 <tr> <td><h3>Conferences</h3></td></tr>
 <tr>
     <td>2021</td>
@@ -33,7 +31,6 @@
     <td>2016-2017</td>
     <td>Tutor in Computer-oriented Mathematics II and Mathematics for Geoscientists I and II</td>
 </tr>
-<br />
 <tr> 
   <td><h3>Articles</h3></td>
 </tr>
@@ -45,7 +42,6 @@
   <td>2018</td>
   <td>Galois and Fundamental Groups on Riemann Surfaces (<a href="/documents/bachelorarbeit.pdf">Bachelor's Thesis</a>)</td>
 </tr>
-<br />
 <tr><td><h3>Software Projects</h3></td></tr>
 <tr>
   <td>2021</td>
