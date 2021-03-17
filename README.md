@@ -1,7 +1,8 @@
-I am a first year PhD student at the University of Potsdam and Berlin Mathematical School under the supervision of Myfanwy Evans. My main fields of interest are applied algebraic geometry and data science and I am always looking for interesting ways to intersect these topics.
+I am a first year PhD student at the University of Potsdam and Berlin Mathematical School under the supervision of Myfanwy Evans. My main fields of interest are applied algebraic geometry and data science and I am always looking for interesting ways to intersect these topics.  
+
 Using code, I try to develop tools that help to model and visualize mathematics. At the moment, I am trying to apply algebro-geometric techniques to better understand discontinuous behavior of materials, especially tensegrity framework.  
 
-In the following, I list a few milestones in my academic career.
+In the following, a few milestones in my academic career are listed.
 
 <table style="width:100%">
 <tr> <td><h3>Education</h3></td></tr>
@@ -46,18 +47,13 @@ In the following, I list a few milestones in my academic career.
   <td>2020</td>
   <td><a href="https://github.com/matthiashimmelmann/LearnVanishingIdeal.jl">LearnVanishingIdeal.jl</a>: A Julia package for learning an algebraic variety from point clouds that respects the underlying geometry.</td>
 </tr>
-<tr>
-  &nbsp;
-</tr>
 <tr> <td><h3><br>Conferences</h3></td></tr>
 <tr>
     <td>2021</td>
-    <td>Participation in the Thematic Program on Geometric Constraint Systems, Framework Rigidity and Distance Geometry<br/>
-        Fields Institute, Toronto</td>
+    <td>Participation in the Thematic Program on Geometric Constraint Systems, Framework Rigidity and Distance Geometry at the Fields Institute, Toronto</td>
 </tr>
 <tr>
     <td>2019</td>
-    <td>Participation in the Fall School, Conference and Research Retreat <br/>
-        Thematic Einstein Semester Varieties, Polyhedra and Computations, Berlin</td>
+    <td>Participation in the Fall School, Conference and Research Retreat in the Thematic Einstein Semester Varieties, Polyhedra and Computations, Berlin</td>
 </tr>
 </table>
