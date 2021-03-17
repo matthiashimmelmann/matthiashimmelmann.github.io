@@ -14,6 +14,10 @@ In the following, a few milestones in my academic career are listed.
     <td>2018 - 2021</td>
     <td>M.Sc. in Mathematics at the Free University of Berlin</td>
 </tr>
+ <tr>
+    <td>2017</td>
+    <td>Erasmus Semester at the Universitetet i Oslo</td>
+</tr>
 <tr>
     <td>2014 - 2018</td>
     <td>B.Sc. in Mathematics at the Free University of Berlin</td>
