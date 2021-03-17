@@ -1,0 +1,23 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.wrapper {
+  width:1200px;
+  margin:0 auto;
+}
+
+header {
+  width:500px;
+  float:left;
+  position:fixed;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
+
+@media print, screen and (max-width: 1500px) {
+
+  div.wrapper {
+    width:auto;
+    margin:0;
+  }
