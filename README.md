@@ -8,13 +8,14 @@
 <tr>
     <td>2018 - 2021</td>
     <td>M.Sc. in Mathematics at the Free University of Berlin <br /> <i>Master's Thesis:</i> Generalized Principal Component Analysis for Algebraic Varieties<br />
-      supervised by Christian Haase and Bernd Sturmfels</td>
+      supervised by Bernd Sturmfels and Christian Haase</td>
 </tr>
 <tr>
     <td>2014 - 2018</td>
     <td>B.Sc. in Mathematics at the Free University of Berlin <br /><i>Bachelor's Thesis:</i> Galois and Fundamental Groups on Riemann Surfaces<br /> supervised by Shane Kelly and Klaus Altmann</td>
 </tr>
-<tr> <td><h3>Activities</h3></td></tr>
+<br />
+<tr> <td><h3>Conferences</h3></td></tr>
 <tr>
     <td>2021</td>
     <td>Participation in the Thematic Program on Geometric Constraint Systems, Framework Rigidity  and <br /> Distance Geometry at the Fields Institute, Toronto</td>
@@ -23,7 +24,23 @@
     <td>2019</td>
     <td>Participation in the Fall School, Conference and Research Retreat in the Thematic Einstein Semester <br />  Varieties, Polyhedra and Computations, Berlin</td>
 </tr>
+<tr> Teaching
 <tr>
+    <td>2020</td>
+    <td>Tutor in Computeralgebra</td>
+</tr>
+<tr>
+    <td>2016-2017</td>
+    <td>Tutor in Computer-oriented Mathematics II and Mathematics for Geoscientists I and II
+</tr>
+
+<tr>
+    <td>2019</td>
+    <td>Participation in the Fall School, Conference and Research Retreat in the Thematic Einstein Semester <br />  Varieties, Polyhedra and Computations, Berlin</td>
+</tr>
+<br />
+<br />
+<tr> 
   <td><h3>Articles</h3></td>
 </tr>
 <tr>
@@ -34,6 +51,7 @@
   <td>2018</td>
   <td>Galois and Fundamental Groups on Riemann Surfaces</td>
 </tr>
+<br />
 <tr><td><h3>Software Projects</h3></td></tr>
 <tr>
   <td>2021</td>
