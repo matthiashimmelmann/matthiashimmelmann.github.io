@@ -1,3 +1,6 @@
+I am a first year PhD student at the University of Potsdam and Berlin Mathematical School under the supervision of Myfanwy Evans. My main fields of interest are applied algebraic geometry and data science and I am always looking for interesting ways to intersect these topics.
+Using code, I try to develop tools that help to model and visualize mathematics. At the moment, I am trying to apply algebro-geometric techniques to better understand discontinuous behavior of materials, especially tensegrities.
+
 <table style="width:100%">
 <tr> <td><h3>Education</h3></td></tr>
 <tr>
