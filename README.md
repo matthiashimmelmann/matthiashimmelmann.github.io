@@ -15,18 +15,6 @@ Using code, I try to develop tools that help to model and visualize mathematics.
     <td>2014 - 2018</td>
     <td>B.Sc. in Mathematics at the Free University of Berlin</td>
 </tr>
-<tr>
-  &nbsp;
-</tr>
-<tr> <td><h3><br>Conferences</h3></td></tr>
-<tr>
-    <td>2021</td>
-    <td>Participation in the Thematic Program on Geometric Constraint Systems, Framework Rigidity  and <br /> Distance Geometry at the Fields Institute, Toronto</td>
-</tr>
-<tr>
-    <td>2019</td>
-    <td>Participation in the Fall School, Conference and Research Retreat in the Thematic Einstein Semester <br />  Varieties, Polyhedra and Computations, Berlin</td>
-</tr>
 <tr> <td><h3><br>Teaching</h3></td> </tr>
 <tr>
     <td>2020</td>
@@ -55,5 +43,17 @@ Using code, I try to develop tools that help to model and visualize mathematics.
 <tr>
   <td>2020</td>
   <td><a href="https://github.com/matthiashimmelmann/LearnVanishingIdeal.jl">LearnVanishingIdeal.jl</a>: A Julia package for learning the vanishing ideal corresponding to a point cloud under given degrees of the involved polynomial generators.</td>
+</tr>
+<tr>
+  &nbsp;
+</tr>
+<tr> <td><h3><br>Conferences</h3></td></tr>
+<tr>
+    <td>2021</td>
+    <td>Participation in the Thematic Program on Geometric Constraint Systems, Framework Rigidity  and <br /> Distance Geometry at the Fields Institute, Toronto</td>
+</tr>
+<tr>
+    <td>2019</td>
+    <td>Participation in the Fall School, Conference and Research Retreat in the Thematic Einstein Semester <br />  Varieties, Polyhedra and Computations, Berlin</td>
 </tr>
 </table>
