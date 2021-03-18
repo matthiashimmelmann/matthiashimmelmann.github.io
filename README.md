@@ -32,7 +32,7 @@ In the following, a few milestones in my academic career are listed.<br>
     <td>Tutor of Computer-oriented Mathematics II and Mathematics for Geoscientists I and II</td>
 </tr>
 <tr>
-  <td><h3><br>Publications</h3></td>
+  <td><h3><br>Scientific Papers</h3></td>
 </tr>
 <tr>
   <td>2021</td>
