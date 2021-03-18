@@ -13,7 +13,7 @@ In the following, a few milestones in my academic career are listed.<br>
 <tr>
     <td>2018 - 2021</td>
     <td>M.Sc. in Mathematics at the Freie Universität Berlin<br>
-    (<a href="/documents/Masterarbeit_Himmelmann_GPCA.pdf">Master's Thesis</a> supervised by Bernd Sturmfels and Christian Haase)</td>
+    (<a href="/documents/Masterarbeit_Himmelmann_GPCA.pdf">Master's Thesis</a>)</td>
 </tr>
  <tr>
     <td>2017 - 2018</td>
@@ -22,7 +22,7 @@ In the following, a few milestones in my academic career are listed.<br>
 <tr>
     <td>2014 - 2018</td>
     <td>B.Sc. in Mathematics at the Freie Universität Berlin<br>
-     (<a href="/documents/bachelorarbeit.pdf">Bachelor's Thesis</a> supervised by Shane Kelly and Klaus Altmann)</td>
+     (<a href="/documents/bachelorarbeit.pdf">Bachelor's Thesis</a>)</td>
 </tr>
 <tr> <td><h3><br>Teaching</h3></td> </tr>
 <tr>
