@@ -12,7 +12,8 @@ In the following, a few milestones in my academic career are listed.<br>
 </tr>
 <tr>
     <td>2018 - 2021</td>
-    <td>M.Sc. in Mathematics at the Freie Universität Berlin</td>
+    <td>M.Sc. in Mathematics at the Freie Universität Berlin<br>
+    (<a href="/documents/Masterarbeit_Himmelmann_GPCA.pdf">Master's Thesis</a> supervised by Bernd Sturmfels and Christian Haase)</td>
 </tr>
  <tr>
     <td>2017 - 2018</td>
@@ -20,7 +21,8 @@ In the following, a few milestones in my academic career are listed.<br>
 </tr>
 <tr>
     <td>2014 - 2018</td>
-    <td>B.Sc. in Mathematics at the Freie Universität Berlin</td>
+    <td>B.Sc. in Mathematics at the Freie Universität Berlin<br>
+     (<a href="/documents/bachelorarbeit.pdf">Bachelor's Thesis</a> supervised by Shane Kelly and Klaus Altmann)</td>
 </tr>
 <tr> <td><h3><br>Teaching</h3></td> </tr>
 <tr>
@@ -30,17 +32,6 @@ In the following, a few milestones in my academic career are listed.<br>
 <tr>
     <td>2016-2017</td>
     <td>Tutor of Computer-oriented Mathematics II and Mathematics for Geoscientists I and II</td>
-</tr>
-<tr>
-  <td><h3><br>Scientific Papers</h3></td>
-</tr>
-<tr>
-  <td>2021</td>
-  <td>Generalized Principal Component Analysis for Algebraic Varieties (<a href="/documents/Masterarbeit_Himmelmann_GPCA.pdf">Master's Thesis</a>)</td>
-</tr>
-<tr>
-  <td>2018</td>
-  <td>Galois and Fundamental Groups on Riemann Surfaces (<a href="/documents/bachelorarbeit.pdf">Bachelor's Thesis</a>)</td>
 </tr>
 <tr><td><h3><br>Software Projects</h3></td></tr>
 <tr>
