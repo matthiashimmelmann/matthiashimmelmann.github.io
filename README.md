@@ -2,7 +2,7 @@ At the Universität Potsdam and Berlin Mathematical School, I am studying as a f
 
 Using code, I try to develop tools that help to model and visualize mathematics. At the moment, I am trying to apply algebro-geometric techniques to better understand discontinuous behavior of materials, especially tensegrity frameworks.  
 
-Below, a few milestones of my academic career are listed.  
+Below, a few milestones of my academic career are listed. 
 
 <table style="width:100%">
 <tr> <td><h3>Education</h3></td></tr>
