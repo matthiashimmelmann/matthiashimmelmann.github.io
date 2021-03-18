@@ -40,7 +40,7 @@ In the following, a few milestones in my academic career are listed.<br>
 </tr>
 <tr>
   <td>2020</td>
-  <td><a href="https://github.com/matthiashimmelmann/LearnVanishingIdeal.jl">LearnVanishingIdeal.jl</a>: A Julia package for learning an algebraic variety from point clouds that respects the underlying geometry.</td>
+  <td><a href="https://github.com/matthiashimmelmann/LearnVanishingIdeal.jl">LearnVanishingIdeal.jl</a>: A Julia package for learning an algebraic variety from point clouds that respects the underlying geometry</td>
 </tr>
 <tr> <td><h3><br>Conferences</h3></td></tr>
 <tr>
