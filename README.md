@@ -5,7 +5,7 @@ Using code, I try to develop tools that help to model and visualize mathematics.
 Below, a few milestones of my academic career are listed. 
 
 <table style="width:100%">
-<tr> <td><h3>Education</h3></td></tr>
+<tr><td><h3>Education</h3></td></tr>
 <tr>
     <td>2021 - today</td>
     <td>PhD student at the Universität Potsdam under the supervision of Myfanwy Evans and Phase II student at the Berlin Mathematical School</td>
@@ -24,7 +24,7 @@ Below, a few milestones of my academic career are listed.
     <td>B.Sc. in Mathematics at the Freie Universität Berlin<br>
      (<a href="/documents/bachelorarbeit.pdf">Bachelor's Thesis</a>)</td>
 </tr>
-<tr> <td><h3><br>Teaching</h3></td> </tr>
+<tr><td><h3><br>Teaching</h3></td></tr>
 <tr>
     <td>2020</td>
     <td>Tutor of Computeralgebra</td>
@@ -32,6 +32,7 @@ Below, a few milestones of my academic career are listed.
 <tr>
     <td>2018</td>
     <td>Mentor of Linear Algebra for Computer Scientists</td>
+</tr>
 <tr>
     <td>2016-2017</td>
     <td>Tutor of Computer-oriented Mathematics II and Mathematics for Geoscientists I and II</td>
