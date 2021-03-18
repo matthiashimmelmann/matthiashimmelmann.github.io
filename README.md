@@ -2,7 +2,7 @@ At the Universität Potsdam and Berlin Mathematical School, I am studying as a f
 
 Using code, I try to develop tools that help to model and visualize mathematics. At the moment, I am trying to apply algebro-geometric techniques to better understand discontinuous behavior of materials, especially tensegrity frameworks.  
 
-In the following, a few milestones in my academic career are listed.<br>
+Below, a few milestones of my academic career are listed.  
 
 <table style="width:100%">
 <tr> <td><h3>Education</h3></td></tr>
@@ -16,7 +16,7 @@ In the following, a few milestones in my academic career are listed.<br>
     (<a href="/documents/Masterarbeit_Himmelmann_GPCA.pdf">Master's Thesis</a>)</td>
 </tr>
  <tr>
-    <td>2017 - 2018</td>
+    <td>2017</td>
     <td>Erasmus Semester at the Universitetet i Oslo</td>
 </tr>
 <tr>
@@ -54,7 +54,13 @@ In the following, a few milestones in my academic career are listed.<br>
     <td>2019</td>
     <td>Participation in the Fall School, Conference and Research Retreat of the Thematic Einstein Semester Varieties, Polyhedra and Computations, Berlin</td>
 </tr>
-    <tr> <td><h3><br>Prizes</h3></td></tr>
+ <tr> <td><h3><br>Prizes</h3></td></tr>
+<tr>
     <td>2018</td>
     <td>Prize of the Berlin Mathematical Association for outstanding achievements in the bachelor's degree</td>
+        </tr>
+<tr>
+    <td>2013</td>
+    <td>Book Prize of the German Physical Association for extraordinary achievements in the Abitur</td>
+</tr>
 </table>
