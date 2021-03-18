@@ -30,6 +30,9 @@ In the following, a few milestones in my academic career are listed.<br>
     <td>Tutor of Computeralgebra</td>
 </tr>
 <tr>
+    <td>2018</td>
+    <td>Mentor of Linear Algebra for Computer Scientists
+<tr>
     <td>2016-2017</td>
     <td>Tutor of Computer-oriented Mathematics II and Mathematics for Geoscientists I and II</td>
 </tr>
