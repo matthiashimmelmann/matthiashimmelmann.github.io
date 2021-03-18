@@ -58,7 +58,7 @@ Below, a few milestones of my academic career are listed.
 <tr>
     <td>2018</td>
     <td>Prize of the Berlin Mathematical Association for outstanding achievements in the bachelor's degree</td>
-        </tr>
+ </tr>
 <tr>
     <td>2013</td>
     <td>Book Prize of the German Physical Association for extraordinary achievements in the Abitur</td>
