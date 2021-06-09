@@ -47,13 +47,23 @@ Below, a few milestones of my academic career are listed.
   <td><a href="https://github.com/matthiashimmelmann/LearnVanishingIdeal.jl">LearnVanishingIdeal.jl</a>: A Julia package for learning an algebraic variety from point clouds that respects the underlying geometry</td>
 </tr>
 <tr> <td><h3><br>Conferences</h3></td></tr>
+    <tr>
+    <td>2021</td>
+    <td>Participation in the Conference for Effective Methods in Algebraic Geometry (Tromsø, Norway)</td>
+</tr>
+
 <tr>
     <td>2021</td>
-    <td>Participation in the Thematic Program on Geometric Constraint Systems, Framework Rigidity and Distance Geometry at the Fields Institute, Toronto</td>
+    <td>Participation in the Workshop on Software and Applications of Numerical Nonlinear Algebra (MPI MiS Leipzig, Germany) </td>
+</tr>
+    
+<tr>
+    <td>2021</td>
+    <td>Participation in the Thematic Program on Geometric Constraint Systems, Framework Rigidity and Distance Geometry (Fields Institute Toronto, Canada)</td>
 </tr>
 <tr>
     <td>2019</td>
-    <td>Participation in the Fall School, Conference and Research Retreat of the Thematic Einstein Semester Varieties, Polyhedra and Computations, Berlin</td>
+    <td>Participation in the Fall School, Conference and Research Retreat of the Thematic Einstein Semester Varieties, Polyhedra and Computations (Math+ Berlin, Germany)</td>
 </tr>
  <tr> <td><h3><br>Prizes</h3></td></tr>
 <tr>
