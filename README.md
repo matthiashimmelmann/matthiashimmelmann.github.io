@@ -8,7 +8,7 @@ Below, a few milestones of my academic career are listed.
 <tr><td><h3>Education</h3></td></tr>
 <tr>
     <td>2021 - today</td>
-    <td>PhD student at the Universität Potsdam under the supervision of Myfanwy Evans and Phase II student at the Berlin Mathematical School</td>
+    <td>PhD student at the Universität Potsdam under the supervision of <a href="https://www.math.uni-potsdam.de/professuren/applied-geometry-and-topology/team/prof-dr-myfanwy-evans">Myfanwy Evans</a> and Phase II student at the <a href="https://www.math-berlin.de/">Berlin Mathematical School</a></td>
 </tr>
 <tr>
     <td>2018 - 2021</td>
@@ -38,16 +38,24 @@ Below, a few milestones of my academic career are listed.
     <td>Tutor of Computer-oriented Mathematics II and Mathematics for Geoscientists I and II</td>
 </tr>
 <tr><td><h3><br>Software Projects</h3></td></tr>
+    
 <tr>
   <td>2021</td>
-  <td><a href="https://github.com/matthiashimmelmann/equilibriaTensegrityFramework.jl">equilibriaTensegrityFramework.jl</a>: A Julia package for computations concerning Tensegrity Frameworks</td>
+  <td><a href="https://github.com/alexheaton2/HomotopyOpt.jl">HomotopyOpt.jl</a>: A collection of methods to solve optimization problems with polynomial constraints (Collaboration with Alex Heaton)</td>
 </tr>
+    
+    
+<tr>
+  <td>2021</td>
+  <td><a href="https://github.com/matthiashimmelmann/TensegrityEquilibria.jl">TensegrityEquilibria.jl</a>: A Julia package for computations concerning Tensegrity Frameworks</td>
+</tr>
+    
 <tr>
   <td>2020</td>
   <td><a href="https://github.com/matthiashimmelmann/LearnVanishingIdeal.jl">LearnVanishingIdeal.jl</a>: A Julia package for learning an algebraic variety from point clouds that respects the underlying geometry</td>
 </tr>
 <tr> <td><h3><br>Conferences</h3></td></tr>
-    <tr>
+<tr>
     <td>2021</td>
     <td>Participation in the Conference for Effective Methods in Algebraic Geometry (Tromsø, Norway)</td>
 </tr>
@@ -55,6 +63,11 @@ Below, a few milestones of my academic career are listed.
 <tr>
     <td>2021</td>
     <td>Participation in the Workshop on Software and Applications of Numerical Nonlinear Algebra (MPI MiS Leipzig, Germany) </td>
+</tr>
+
+<tr>
+    <td>2021</td>
+    <td>Participation in several Workshops at the Thematic Einstein Semester on Geometric and Topological Structure of Materials (Math+ Berlin, Germany))</td>
 </tr>
     
 <tr>
