@@ -8,7 +8,7 @@ Below, a few milestones of my academic career are listed.
 <tr><td><h3>Education</h3></td></tr>
 <tr>
     <td>2021 - today</td>
-    <td>PhD student at the Universität Potsdam under the supervision of <a href="https://www.math.uni-potsdam.de/professuren/applied-geometry-and-topology/team/prof-dr-myfanwy-evans">Myfanwy Evans</a> and Phase II student at the <a href="https://www.math-berlin.de/">Berlin Mathematical School</a></td>
+    <td>PhD student at the Universität Potsdam under the supervision of Myfanwy Evans and Phase II student at the Berlin Mathematical School</td>
 </tr>
 <tr>
     <td>2018 - 2021</td>
