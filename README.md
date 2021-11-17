@@ -11,7 +11,7 @@ Below, a few milestones of my academic career are listed.
     <td>PhD student at the Universität Potsdam under the supervision of Myfanwy Evans and Phase II student at the Berlin Mathematical School</td>
 </tr>
 <tr>
-    <td>2018 - 2021</td>
+    <td>2018 - 2020</td>
     <td>M.Sc. in Mathematics at the Freie Universität Berlin<br>
     (<a href="/documents/Masterarbeit_Himmelmann_GPCA.pdf">Master's Thesis</a>)</td>
 </tr>
