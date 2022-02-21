@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Curriculum Vitae"
-permalink: /cv/
+title: "Teaching"
+permalink: /teaching/
 ---
 
 ## Summer Semester 2022
