@@ -4,7 +4,7 @@ title: "Curriculum Vitae"
 permalink: /cv/
 ---
 
-#Curriculum Vitae
+<h2>Curriculum Vitae</h2>
 
 Below, a few milestones of my academic career are listed. 
 
