@@ -10,9 +10,10 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
   </head>
   <body>
-    {% include header.html %}123
     <div class="wrapper">
       <header>
+        {% include header.html %}asd
+
         <h2>Matthias Himmelmann</h2>
         
         {% if site.logo %}
@@ -27,9 +28,6 @@
         <p class="view">Github: <br><a href="{{ site.github.owner_url }}">matthiashimmelmann</a></p>
         {% endif %}
       </header>
-      <section>
-       {% include header.html %}asd
-      </section>
       <section>
 
       {{ content }}
