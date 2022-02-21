@@ -3,14 +3,6 @@ layout: default
 tags: home
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+At the Universität Potsdam and Berlin Mathematical School, I am studying as a first year PhD student under the supervision of <a href="https://www.math.uni-potsdam.de/professuren/applied-geometry-and-topology/team/prof-dr-myfanwy-evans/">Myfanwy Evans</a>. My main fields of interest are applied algebraic geometry and data science.  I am always looking for interesting ways to intersect these topics.  
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Using code, I develop tools that help to model and visualize mathematics. At the moment, I am trying to apply algebro-geometric techniques to better understand discontinuous behavior of materials, especially tensegrity frameworks.  
