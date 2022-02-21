@@ -4,8 +4,6 @@ title: "Curriculum Vitae"
 permalink: /cv/
 ---
 
-<a href="https://matthiashimmelmann.github.io/">Home</a> | <a href="https://matthiashimmelmann.github.io/cv/">CV</a> | <a href="https://matthiashimmelmann.github.io/teaching/">Teaching</a>
-
 Below, a few milestones of my academic career are listed. 
 
 <table style="width:100%">
