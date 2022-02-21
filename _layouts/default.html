@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-        {% include header.html %}
   <head>
-          {% include header.html %}
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -30,6 +28,10 @@
         <p class="view">Github: <br><a href="{{ site.github.owner_url }}">matthiashimmelmann</a></p>
         {% endif %}
       </header>
+      {% include header.html %}
+      <section>
+       {% include header.html %}
+      </section>
       <section>
 
       {{ content }}
