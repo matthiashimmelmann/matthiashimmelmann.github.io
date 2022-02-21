@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: resume
 title: "Curriculum Vitae"
-permalink: /CV/
+permalink: /cv/
 ---
