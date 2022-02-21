@@ -50,7 +50,7 @@ Below, a few milestones of my academic career are listed.
     
 <tr>
   <td>2021</td>
-  <td><a href="https://github.com/matthiashimmelmann/TensegrityEquilibria.jl">TensegrityEquilibria.jl</a>: A Julia package for computations concerning Tensegrity Frameworks. For example, their equilibria and their catastrophe sets</td>
+  <td><a href="https://github.com/matthiashimmelmann/TensegrityEquilibria.jl">TensegrityEquilibria.jl</a>: A Julia package for computations concerning Tensegrity Frameworks. For example, their equilibrium configurations and their catastrophe sets</td>
 </tr>
     
 <tr>
