@@ -55,6 +55,11 @@ Below, a few milestones of my academic career are listed.
 </tr>
     
 <tr>
+    <td>2021</td>
+    <td><a href="https://github.com/matthiashimmelmann/Implicit3DPlotting.jl">Implicit3DPlotting</a>: A plotting package for implicitly defined space curves and surfaces. It is based on <a href="https://makie.juliaplots.org/stable/">Makie.jl</a> and <a href="https://github.com/JuliaGeometry/Meshing.jl">Meshing.jl</a></td>
+</tr>
+    
+<tr>
   <td>2020</td>
   <td><a href="https://github.com/matthiashimmelmann/LearnVanishingIdeal.jl">LearnVanishingIdeal.jl</a>: A Julia package for learning an algebraic variety from point clouds that respects the underlying geometry</td>
 </tr>
