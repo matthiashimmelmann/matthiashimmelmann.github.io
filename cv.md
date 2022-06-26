@@ -57,20 +57,13 @@ homotopy continuation (together with Alex Heaton). Preprint</td>
 </tr>
 <tr> <td><h3><br>Conferences</h3></td></tr>
 <tr>
-    <td>2021</td>
-    <td>Participation in the Conference for Effective Methods in Algebraic Geometry (Tromsø, Norway)</td>
-</tr>
-
-<tr>
-    <td>2021</td>
-    <td>Participation in the Workshop on Software and Applications of Numerical Nonlinear Algebra (MPI MiS Leipzig, Germany) </td>
-</tr>
-
-<tr>
-    <td>2021</td>
-    <td>Participation in several Workshops at the Thematic Einstein Semester on Geometric and Topological Structure of Materials (Math+ Berlin, Germany))</td>
+<td>2022</td>
+    <td>Participation in the LMS Research School on Rigidity, Flexibility and Applications (Lancaster, United Kingdom)</td>
 </tr>
     
+<td>2022</td>
+    <td>Participation in the BMS Summer School on Geometry and Topology in a Discrete Setting (Berlin Mathematical School, Germany)</td>
+</tr>
 <tr>
     <td>2021</td>
     <td>Participation in the Thematic Program on Geometric Constraint Systems, Framework Rigidity and Distance Geometry (Fields Institute Toronto, Canada)</td>
