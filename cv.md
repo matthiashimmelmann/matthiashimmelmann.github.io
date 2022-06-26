@@ -9,26 +9,19 @@ permalink: /cv/
 Below, a few milestones of my academic career are listed. 
 
 <table style="width:100%">
-<tr><td><h3>Education</h3></td></tr>
-<tr>
-    <td>2021 - today</td>
-    <td>PhD student at the Universität Potsdam under the supervision of Myfanwy Evans and Phase II student at the Berlin Mathematical School</td>
+    <tr><td><h3><br>Publications</h3></td></tr>
+    <tr>
+    <td>2022</td>
+    <td>Euclidean distance and maximum likelihood retractions by
+homotopy continuation (together with Alex Heaton). Preprint</td>
 </tr>
-<tr>
-    <td>2018 - 2020</td>
-    <td>M.Sc. in Mathematics at the Freie Universität Berlin<br>
-    (<a href="/documents/Masterarbeit_Himmelmann_GPCA.pdf">Master's Thesis</a>)</td>
-</tr>
- <tr>
-    <td>2017</td>
-    <td>Erasmus Semester at the Universitetet i Oslo</td>
-</tr>
-<tr>
-    <td>2014 - 2018</td>
-    <td>B.Sc. in Mathematics at the Freie Universität Berlin<br>
-     (<a href="/documents/bachelorarbeit.pdf">Bachelor's Thesis</a>)</td>
 </tr>
 <tr><td><h3><br>Teaching</h3></td></tr>
+<tr>
+    <td>2022</td>
+    <td>Mathematisches Problemlösen</td>
+</tr>
+
 <tr>
     <td>2020</td>
     <td>Tutor of Computeralgebra</td>
@@ -87,6 +80,26 @@ Below, a few milestones of my academic career are listed.
     <td>2019</td>
     <td>Participation in the Fall School, Conference and Research Retreat of the Thematic Einstein Semester Varieties, Polyhedra and Computations (Math+ Berlin, Germany)</td>
 </tr>
+    <tr><td><h3>Education</h3></td></tr>
+<tr>
+    <td>2021 - today</td>
+    <td>PhD student at the Universität Potsdam under the supervision of Myfanwy Evans and Phase II student at the Berlin Mathematical School</td>
+</tr>
+<tr>
+    <td>2018 - 2020</td>
+    <td>M.Sc. in Mathematics at the Freie Universität Berlin<br>
+    (<a href="/documents/Masterarbeit_Himmelmann_GPCA.pdf">Master's Thesis</a>)</td>
+</tr>
+ <tr>
+    <td>2017</td>
+    <td>Erasmus Semester at the Universitetet i Oslo</td>
+</tr>
+<tr>
+    <td>2014 - 2018</td>
+    <td>B.Sc. in Mathematics at the Freie Universität Berlin<br>
+     (<a href="/documents/bachelorarbeit.pdf">Bachelor's Thesis</a>)</td>
+</tr>
+
  <tr> <td><h3><br>Prizes</h3></td></tr>
 <tr>
     <td>2018</td>
