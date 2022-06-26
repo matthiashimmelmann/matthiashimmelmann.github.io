@@ -37,7 +37,7 @@ homotopy continuation (together with Alex Heaton). Preprint</td>
 <tr><td><h3><br>Software Projects</h3></td></tr>
     
 <tr>
-  <td>2021</td>
+  <td>2022</td>
   <td><a href="https://github.com/alexheaton2/HomotopyOpt.jl">HomotopyOpt.jl</a>: A collection of methods to solve optimization problems with polynomial constraints (Collaboration with Alex Heaton)</td>
 </tr>
     
