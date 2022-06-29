@@ -13,7 +13,7 @@ Below, a few milestones of my academic career are listed.
     <tr>
     <td>2022</td>
     <td><a href="https://arxiv.org/abs/2206.14106">Euclidean distance and maximum likelihood retractions by
-        homotopy continuation</a> (together with Alex Heaton).</td>
+        homotopy continuation</a> (together with Alex Heaton, Preprint).</td>
     </tr>
 <tr><td><h3><br>Teaching</h3></td></tr>
 <tr>
@@ -92,7 +92,7 @@ Below, a few milestones of my academic career are listed.
      (<a href="/documents/bachelorarbeit.pdf">Bachelor's Thesis</a>)</td>
 </tr>
 
- <tr> <td><h3><br>Prizes</h3></td></tr>
+<tr> <td><h3><br>Prizes</h3></td></tr>
 <tr>
     <td>2018</td>
     <td>Prize of the Berlin Mathematical Association for outstanding achievements in the bachelor's degree</td>
