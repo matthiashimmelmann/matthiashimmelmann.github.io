@@ -55,6 +55,7 @@ Below, a few milestones of my academic career are listed.
   <td>2020</td>
   <td><a href="https://github.com/matthiashimmelmann/LearnVanishingIdeal.jl">LearnVanishingIdeal.jl</a>: A Julia package for learning an algebraic variety from point clouds that respects the underlying geometry</td>
 </tr>
+    
 <tr> <td><h3><br>Conferences</h3></td></tr>
 <tr>
 <td>2022</td>
@@ -72,7 +73,7 @@ Below, a few milestones of my academic career are listed.
     <td>2019</td>
     <td>Participation in the Fall School, Conference and Research Retreat of the Thematic Einstein Semester Varieties, Polyhedra and Computations (Math+ Berlin, Germany)</td>
 </tr>
-    <tr><td><h3>Education</h3></td></tr>
+    <tr><td><h3><br>Education</h3></td></tr>
 <tr>
     <td>2021 - today</td>
     <td>PhD student at the Universität Potsdam under the supervision of Myfanwy Evans and Phase II student at the Berlin Mathematical School</td>
