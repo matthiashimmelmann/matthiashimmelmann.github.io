@@ -5,7 +5,7 @@ tags: home
 
 <h2>Home</h2>
 
-At the Universität Potsdam and Berlin Mathematical School, I am studying as a first year PhD student under the supervision of <a href="https://www.math.uni-potsdam.de/professuren/applied-geometry-and-topology/team/prof-dr-myfanwy-evans/">Myfanwy Evans</a>. My main fields of interest are applied algebraic geometry and data science.  I am always looking for interesting ways to intersect these topics.  
+At the Universität Potsdam and Berlin Mathematical School, I am studying as a second year PhD student under the supervision of <a href="https://www.math.uni-potsdam.de/professuren/applied-geometry-and-topology/team/prof-dr-myfanwy-evans/">Myfanwy Evans</a>. My main fields of interest are applied algebraic geometry and data science.  I am always looking for interesting ways to intersect these topics.  
 
 Using code, I develop tools that help to model and visualize mathematics. At the moment, I am trying to apply algebro-geometric techniques to better understand discontinuous behavior of materials, especially tensegrity frameworks, funded by the <a href="https://www.discretization.de/">SFB Transregio 109 - Discretization in Geometry and Dynamics</a>.
 
