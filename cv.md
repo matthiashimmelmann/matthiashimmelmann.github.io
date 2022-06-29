@@ -48,7 +48,7 @@ Below, a few milestones of my academic career are listed.
     
 <tr>
     <td>2021</td>
-    <td><a href="https://github.com/matthiashimmelmann/Implicit3DPlotting.jl">Implicit3DPlotting</a>: A plotting package for implicitly defined space curves and surfaces. It is based on <a href="https://makie.juliaplots.org/stable/">Makie.jl</a> and <a href="https://github.com/JuliaGeometry/Meshing.jl">Meshing.jl</a></td>
+    <td><a href="https://github.com/matthiashimmelmann/Implicit3DPlotting.jl">Implicit3DPlotting.jl</a>: A plotting package for implicitly defined space curves and surfaces. It is based on <a href="https://makie.juliaplots.org/stable/">Makie.jl</a> and <a href="https://github.com/JuliaGeometry/Meshing.jl">Meshing.jl</a></td>
 </tr>
     
 <tr>
@@ -60,7 +60,7 @@ Below, a few milestones of my academic career are listed.
 <td>2022</td>
     <td>Participation in the LMS Research School on Rigidity, Flexibility and Applications (Lancaster, United Kingdom)</td>
 </tr>
-    
+ <tr>
 <td>2022</td>
     <td>Participation in the BMS Summer School on Geometry and Topology in a Discrete Setting (Berlin Mathematical School, Germany)</td>
 </tr>
@@ -96,7 +96,7 @@ Below, a few milestones of my academic career are listed.
 <tr>
     <td>2018</td>
     <td>Prize of the Berlin Mathematical Association for outstanding achievements in the bachelor's degree</td>
- </tr>
+</tr>
 <tr>
     <td>2013</td>
     <td>Book Prize of the German Physical Association for extraordinary achievements in the Abitur</td>
