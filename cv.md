@@ -6,8 +6,6 @@ permalink: /cv/
 
 <h2>Curriculum Vitae</h2>
 
-Below, a few milestones of my academic career are listed. 
-
 <table style="width:100%">
     <tr><td><h3><br>Publications</h3></td></tr>
     <tr>
