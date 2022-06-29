@@ -9,9 +9,9 @@ permalink: /cv/
 <table style="width:100%">
     <tr><td><h3><br>Publications</h3></td></tr>
     <tr>
-    <td>2022</td>
+    <td>2022, Preprint</td>
     <td><a href="https://arxiv.org/abs/2206.14106">Euclidean distance and maximum likelihood retractions by
-        homotopy continuation</a> (together with Alex Heaton, Preprint).</td>
+        homotopy continuation</a> (together with Alex Heaton).</td>
     </tr>
 <tr><td><h3><br>Teaching</h3></td></tr>
 <tr>
