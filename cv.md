@@ -40,7 +40,7 @@ permalink: /cv/
     <td>Working student at the Fraunhofer-Institut FOKUS in software development.</td>
 </tr>
 <tr>
-    <td>2016 - 2018, 2020</td>
+    <td>2016 - 2017, 2020</td>
     <td>Tutor in Mathematics at the Freie Universität Berlin.</td>
 </tr>
 <tr>
