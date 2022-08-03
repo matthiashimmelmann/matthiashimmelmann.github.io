@@ -7,24 +7,7 @@ permalink: /cv/
 <h2>Curriculum Vitae</h2>
 
 <table style="width:100%">
-<tr><td><h3><br>Teaching</h3></td></tr>
-<tr>
-    <td>2022</td>
-    <td>Mathematisches Problemlösen</td>
-</tr>
 
-<tr>
-    <td>2020</td>
-    <td>Tutor of Computeralgebra</td>
-</tr>
-<tr>
-    <td>2018</td>
-    <td>Mentor of Linear Algebra for Computer Scientists</td>
-</tr>
-<tr>
-    <td>2016 - 2017</td>
-    <td>Tutor of Computer-oriented Mathematics II and Mathematics for Geoscientists I and II</td>
-</tr>
     <tr><td><h3><br>Education</h3></td></tr>
 <tr>
     <td>2021 - today</td>
@@ -45,6 +28,47 @@ permalink: /cv/
      (<a href="/documents/bachelorarbeit.pdf">Bachelor's Thesis</a>)</td>
 </tr>
 
+<tr><td><h3><br>Work Experience</h3></td></tr>
+<tr>
+    <td>2022</td>
+    <td>Mathematisches Problemlösen</td>
+</tr>
+
+    <tr>
+    <td>2021 - today</td>
+    <td>Research assistant in the Mathematics institute at the Universität Potsdam.</td>
+</tr>
+<tr>
+    <td>2018 - 2021</td>
+    <td>Working student at the Fraunhofer-Institut FOKUS in software development.</td>
+</tr>
+<tr>
+    <td>2016 - 2018, 2020</td>
+    <td>Tutor in Mathematics at the Freie Universität Berlin.</td>
+</tr>
+<tr>
+    <td>2013 - 2014</td>
+    <td>Federal voluntary service at the Deutscher Turner-Bund e.V. in public relations and event management. </td>
+</tr>
+
+<tr><td><h3><br>Teaching</h3></td></tr>
+<tr>
+    <td>2022</td>
+    <td>Mathematisches Problemlösen</td>
+</tr>
+
+<tr>
+    <td>2020</td>
+    <td>Tutor of Computeralgebra</td>
+</tr>
+<tr>
+    <td>2018</td>
+    <td>Mentor of Linear Algebra for Computer Scientists</td>
+</tr>
+<tr>
+    <td>2016 - 2017</td>
+    <td>Tutor of Computer-oriented Mathematics II and Mathematics for Geoscientists I and II</td>
+</tr>
 <tr> <td><h3><br>Prizes</h3></td></tr>
 <tr>
     <td>2018</td>
