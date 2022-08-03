@@ -14,7 +14,7 @@ permalink: /research/
         homotopy continuation</a> (together with Alex Heaton).</td>
     </tr>
   
-  <tr><td><h3><br>Presentation</h3></td></tr>
+  <tr><td><h3><br>Presentations</h3></td></tr>
     <tr>
     <td>2022</td>
     <td>Poster: Towards a Robust Tensegrity Model for the Mechanics of Filament Packings. The interdisciplinary world of tangling conference, Potsdam.</td>
