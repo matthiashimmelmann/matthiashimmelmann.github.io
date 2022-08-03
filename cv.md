@@ -8,7 +8,7 @@ permalink: /cv/
 
 <table style="width:100%">
 
-    <tr><td><h3><br>Education</h3></td></tr>
+<tr><td><h3><br>Education</h3></td></tr>
 <tr>
     <td>2021 - today</td>
     <td>PhD student at the Universität Potsdam under the supervision of Myfanwy Evans and Phase II student at the Berlin Mathematical School</td>
