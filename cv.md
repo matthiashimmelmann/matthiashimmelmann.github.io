@@ -29,12 +29,9 @@ permalink: /cv/
 </tr>
 
 <tr><td><h3><br>Work Experience</h3></td></tr>
-<tr>
-    <td>2022</td>
-    <td>Mathematisches Problemlösen</td>
-</tr>
 
-    <tr>
+
+<tr>
     <td>2021 - today</td>
     <td>Research assistant in the Mathematics institute at the Universität Potsdam.</td>
 </tr>
