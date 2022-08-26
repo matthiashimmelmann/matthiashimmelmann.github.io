@@ -21,6 +21,11 @@ permalink: /research/
     </tr>
 
 <tr><td><h3><br>Software Projects</h3></td></tr>
+<tr>
+  <td>2022</td>
+  <td><a href="https://github.com/matthiashimmelmann/DisorderedPointClusters.jl">DisorderedPointClusters.jl</a>: A package to create disordered, yet hyperuniform point sets to ultimately generate disordered minimal surfaces.</td>
+</tr>
+    
     
 <tr>
   <td>2022</td>
@@ -45,6 +50,14 @@ permalink: /research/
     
 <tr> <td><h3><br>Conferences</h3></td></tr>
 <tr>
+<td>2022</td>
+    <td>Participation in the Surfaces Interdisciplinary Summer School (Chiemsee, Germany)</td>
+</tr>
+    
+<td>2022</td>
+    <td>Participation in the PhD School on Geometry and Topology in Contemporary Material Science (Copenhagen, Denmark)</td>
+</tr>
+
 <td>2022</td>
     <td>Participation in the LMS Research School on Rigidity, Flexibility and Applications (Lancaster, United Kingdom)</td>
 </tr>
