@@ -17,7 +17,7 @@ permalink: /research/
   <tr><td><h3><br>Presentations</h3></td></tr>
     <tr>
     <td>2022</td>
-    <td>Poster: Towards a Robust Tensegrity Model for the Mechanics of Filament Packings. The interdisciplinary world of tangling conference, Potsdam.</td>
+    <td>Poster: Towards a Robust Tensegrity Model for the Mechanics of Filament Packings. <a href="https://tangle-conference.de/">The interdisciplinary world of tangling conference</a>, Potsdam.</td>
     </tr>
 
 <tr><td><h3><br>Software Projects</h3></td></tr>
