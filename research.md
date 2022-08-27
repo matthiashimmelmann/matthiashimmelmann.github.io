@@ -53,15 +53,18 @@ permalink: /research/
 <td>2022</td>
     <td>Participation in the Surfaces Interdisciplinary Summer School (Chiemsee, Germany)</td>
 </tr>
-    
+
+<tr>
 <td>2022</td>
     <td>Participation in the PhD School on Geometry and Topology in Contemporary Material Science (Copenhagen, Denmark)</td>
 </tr>
 
+<tr>
 <td>2022</td>
     <td>Participation in the LMS Research School on Rigidity, Flexibility and Applications (Lancaster, United Kingdom)</td>
 </tr>
  <tr>
+     
 <td>2022</td>
     <td>Participation in the BMS Summer School on Geometry and Topology in a Discrete Setting (Berlin Mathematical School, Germany)</td>
 </tr>
@@ -69,6 +72,7 @@ permalink: /research/
     <td>2021</td>
     <td>Participation in the Thematic Program on Geometric Constraint Systems, Framework Rigidity and Distance Geometry (Fields Institute Toronto, Canada)</td>
 </tr>
+    
 <tr>
     <td>2019</td>
     <td>Participation in the Fall School, Conference and Research Retreat of the Thematic Einstein Semester Varieties, Polyhedra and Computations (Math+ Berlin, Germany)</td>
