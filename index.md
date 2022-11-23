@@ -13,8 +13,4 @@ My Bachelor's thesis <a href="https://matthiashimmelmann.github.io/documents/bac
 
 Outside of academia, I enjoy coding, traveling, playing board games, climbing and solving puzzles.
 
-![BMN cylinder packing](/images/BMNstretchedelongate.png "BMN cylinder packing")
-<img src="/images/BMNstretchedelongate.png" alt="BMN cylinder packing" width="200"/>
-
-![SGN cylinder packing](/images/SGNstretched.png "SGN cylinder packing")
-<img src="/images/SGNstretched.png" alt="SGN cylinder packing" width="200"/>
+<img src="/images/BMNstretchedelongate.png" alt="BMN cylinder packing" width="300"/> <img src="/images/SGNstretched.png" alt="SGN cylinder packing" width="300"/>
