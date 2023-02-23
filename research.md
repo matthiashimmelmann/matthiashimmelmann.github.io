@@ -9,14 +9,26 @@ permalink: /research/
 <table style="width:100%">
     <tr><td><h3><br>Publications</h3></td></tr>
     <tr>
+    <td>2023, Preprint</td>
+    <td>A geometric and numerical study of periodic auxetic filament packings (together with Myfanwy Evans).</td>
+    </tr>
+    
+    <tr><td><h3><br>Publications</h3></td></tr>
+    <tr>
     <td>2022, Preprint</td>
     <td><a href="https://arxiv.org/abs/2206.14106">Computing Euclidean distance and maximum likelihood retraction maps for constrained optimization</a> (together with Alex Heaton).</td>
     </tr>
   
   <tr><td><h3><br>Presentations</h3></td></tr>
+    
+        <tr>
+    <td>2023, Talk</td>
+    <td>Framework Materials and Cylinder Packings. <a href="https://www.math.uni-potsdam.de/studium/studierende/default-8819680ed3">SIAM Chapter</a>, Potsdam.</td>
+    </tr>
+
     <tr>
-    <td>2022</td>
-    <td>Poster: Towards a Robust Tensegrity Model for the Mechanics of Filament Packings. <a href="https://tangle-conference.de/">The interdisciplinary world of tangling conference</a>, Potsdam.</td>
+    <td>2022, Poster</td>
+    <td>Towards a Robust Tensegrity Model for the Mechanics of Filament Packings. <a href="https://tangle-conference.de/">The interdisciplinary world of tangling conference</a>, Potsdam.</td>
     </tr>
 
 <tr><td><h3><br>Software Projects</h3></td></tr>
