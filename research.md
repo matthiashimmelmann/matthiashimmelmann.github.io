@@ -7,12 +7,12 @@ permalink: /research/
 <h2>Research</h2>
 
 <table style="width:100%">
+    <tr><td><h3><br>Publications</h3></td></tr>
     <tr>
     <td>2023, Preprint</td>
     <td>A geometric and numerical study of periodic auxetic filament packings (together with Myfanwy Evans).</td>
     </tr>
     
-    <tr><td><h3><br>Publications</h3></td></tr>
     <tr>
     <td>2022, Preprint</td>
     <td><a href="https://arxiv.org/abs/2206.14106">Computing Euclidean distance and maximum likelihood retraction maps for constrained optimization</a> (together with Alex Heaton).</td>
