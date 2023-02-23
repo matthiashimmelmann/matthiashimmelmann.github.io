@@ -7,7 +7,6 @@ permalink: /research/
 <h2>Research</h2>
 
 <table style="width:100%">
-    <tr><td><h3><br>Publications</h3></td></tr>
     <tr>
     <td>2023, Preprint</td>
     <td>A geometric and numerical study of periodic auxetic filament packings (together with Myfanwy Evans).</td>
