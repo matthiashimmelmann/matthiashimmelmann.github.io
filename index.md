@@ -13,4 +13,4 @@ My Bachelor's thesis <a href="https://matthiashimmelmann.github.io/documents/bac
 
 Outside of academia, I enjoy food, coding, traveling, playing board games, climbing and solving puzzles.
 
-<img src="/images/BMNstretchedelongate.png" alt="BMN cylinder packing" width="49%" height="49%"/> <img src="/images/SGNstretched.png" alt="SGN cylinder packing" width="49%" height="49%"/>
+<img src="/images/BMNEnd.png" alt="BMN cylinder packing" width="49%" height="49%"/> <img src="/images/SGNEnd.png" alt="SGN cylinder packing" width="49%" height="49%"/>
