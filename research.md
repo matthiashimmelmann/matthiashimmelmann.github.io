@@ -21,7 +21,7 @@ permalink: /research/
   
   <tr><td><h3><br>Presentations</h3></td></tr>
     
-     <tr>
+    <tr>
     <td>2023, Talk</td>
     <td>Framework Materials and Cylinder Packings. <a href="https://www.math.uni-potsdam.de/studium/studierende/default-8819680ed3/">SIAM Chapter</a>, Potsdam.</td>
     </tr>
