@@ -10,7 +10,7 @@ permalink: /research/
     <tr><td><h3><br>Publications</h3></td></tr>
     <tr>
         <td>2023, Preprint</td>
-        <td><a href="https://arxiv.org/abs/2206.14106">Robust geometric modeling of 3-periodic tensegrity frameworks using Riemannian optimization</a> (together with Myfanwy Evans).</td>
+        <td><a href="https://arxiv.org/abs/2303.13140">Robust geometric modeling of 3-periodic tensegrity frameworks using Riemannian optimization</a> (together with Myfanwy Evans).</td>
     </tr>
     <tr>
         <td>2022, Preprint</td>
