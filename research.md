@@ -57,12 +57,16 @@ permalink: /research/
     
 <tr> <td><h3><br>Conferences</h3></td></tr>
 <tr>
-    
     <td>2023</td>
     <td>Participation in the Focus Program on Geometric Constraint Systems (Toronto, Canada)</td>
 </tr>
+    
+<tr>
+    <td>2023</td>
+    <td>Participation in the MSRI Research School on Algebraic Methods for Biochemical Reaction Networks (Leipzig, Germany) </td>
+</tr>
 
-
+<tr>
 <td>2022</td>
     <td>Poster Talk at the Surfaces Interdisciplinary Summer School (Chiemsee, Germany)</td>
 </tr>
