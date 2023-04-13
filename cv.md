@@ -3,12 +3,6 @@ layout: default
 title: "Curriculum Vitae"
 permalink: /cv/
 ---
-
-<p style="text-align: center;">
-<img src="/images/bmnlinesongyroid.png" alt="The $\Gamma^+$ rod packing depicted as lines on the gyroid" width="49%" height="49%"/>
-<img src="/images/sgnlinesongyroid.png" alt="The $\Sigma^+$ rod packing depicted as lines on the gyroid" width="49%" height="49%"/>
-</p>
-
 <table style="width:100%">
 
 <tr><td><h3><br>Education</h3></td></tr>
@@ -80,3 +74,7 @@ permalink: /cv/
 </tr>
 </table>
 
+<p style="text-align: center;">
+<img src="/images/bmnlinesongyroid.png" alt="The $\Gamma^+$ rod packing depicted as lines on the gyroid" width="49%" height="49%"/>
+<img src="/images/sgnlinesongyroid.png" alt="The $\Sigma^+$ rod packing depicted as lines on the gyroid" width="49%" height="49%"/>
+</p>
