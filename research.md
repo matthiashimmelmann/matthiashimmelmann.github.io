@@ -3,11 +3,6 @@ layout: default
 title: "Research"
 permalink: /research/
 ---
-
-<p style="text-align: center;">
-<img src="/images/clasptetrahedralmodel.png" alt="The tetrahedral model for filament packings" width="50%" height="50%"/>
-</p>
-
 <table style="width:100%">
     <tr><td><h3><br>Publications</h3></td></tr>
     <tr>
@@ -98,3 +93,6 @@ permalink: /research/
 </tr>
 </table>
 
+<p style="text-align: center;">
+<img src="/images/clasptetrahedralmodel.png" alt="The tetrahedral model for filament packings" width="49%" height="49%"/>
+</p>
