@@ -13,4 +13,5 @@ My Bachelor's thesis <a href="https://matthiashimmelmann.github.io/documents/bac
 
 Outside of academia, I enjoy food, coding, traveling, playing board games, climbing and solving puzzles.
 
-<img src="/images/sgnrodpackingpic.png" alt="$\Sigma^+$ cylinder packing" width="75%" height="75%"/> <img src="/images/sgntensegritypic.png " alt="Tensegrity representation of the $\Sigma^+$ cylinder packing" width="75%" height="75%"/>
+<img src="/images/sgnrodpackingpic.png" alt="$\Sigma^+$ cylinder packing" width="75%" height="75%" style="text-align: center;"/>
+<img src="/images/sgntensegritypic.png " alt="Tensegrity representation of the $\Sigma^+$ cylinder packing" width="75%" height="75%" style="text-align: center;"/>
