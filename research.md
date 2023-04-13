@@ -29,7 +29,7 @@ permalink: /research/
 
 <tr><td><h3><br>Software Projects</h3></td></tr>
 <tr>
-  <td>2022</td>
+  <td>2023</td>
   <td><a href="https://github.com/matthiashimmelmann/DisorderedPointClusters.jl">DisorderedPointClusters.jl</a>: A package to create disordered, yet hyperuniform point sets to ultimately generate disordered minimal surfaces.</td>
 </tr>
     
