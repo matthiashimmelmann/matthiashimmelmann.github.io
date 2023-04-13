@@ -4,7 +4,9 @@ title: "Research"
 permalink: /research/
 ---
 
-<h2>Research</h2>
+<p style="text-align: center;">
+<img src="/images/ clasptetrahedralmodel.png" alt="The tetrahedral model for filament packings" width="70%" height="70%"/>
+</p>
 
 <table style="width:100%">
     <tr><td><h3><br>Publications</h3></td></tr>
