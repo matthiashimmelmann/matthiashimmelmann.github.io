@@ -4,7 +4,10 @@ title: "Curriculum Vitae"
 permalink: /cv/
 ---
 
-<h2>Curriculum Vitae</h2>
+ <p style="text-align: center;">
+<img src="/images/bmnlinesongyroid.png" alt="The $\Gamma^+$ rod packing depicted as lines on the gyroid" width="49%" height="49%"/>
+    <img src="/images/sgnlinesongyroid.png" alt="The $\Sigma^+$ rod packing depicted as lines on the gyroid" width="49%" height="49%"/>
+</p>
 
 <table style="width:100%">
 
