@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 <p style="text-align: center;">
-<img src="/images/ clasptetrahedralmodel.png" alt="The tetrahedral model for filament packings" width="70%" height="70%"/>
+<img src="/images/clasptetrahedralmodel.png" alt="The tetrahedral model for filament packings" width="70%" height="70%"/>
 </p>
 
 <table style="width:100%">
