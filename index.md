@@ -3,7 +3,10 @@ layout: default
 tags: home
 ---
 
-<h2>Home</h2>
+ <p style="text-align: center;">
+<img src="/images/sgnrodpackingpic.png" alt="$\Sigma^+$ cylinder packing" width="80%" height="80%"/>
+</p>
+
 
 At the Universität Potsdam and Berlin Mathematical School, I am studying as a second year PhD student under the supervision of <a href="https://www.math.uni-potsdam.de/professuren/applied-geometry-and-topology/team/prof-dr-myfanwy-evans/">Myfanwy Evans</a>. My main fields of interest are applied algebraic geometry and data science. I am always looking for interesting ways to intersect these topics.  
 
@@ -14,6 +17,5 @@ My Bachelor's thesis <a href="https://matthiashimmelmann.github.io/documents/bac
 Outside of academia, I enjoy food, coding, traveling, playing board games, climbing and solving puzzles.
 
  <p style="text-align: center;">
-<img src="/images/sgnrodpackingpic.png" alt="$\Sigma^+$ cylinder packing" width="65%" height="65%"/>
-<img src="/images/sgntensegritypic.png " alt="Tensegrity representation of the $\Sigma^+$ cylinder packing" width="65%" height="65%"/>
+<img src="/images/sgntensegritypic.png " alt="Tensegrity representation of the $\Sigma^+$ cylinder packing" width="80%" height="80%"/>
 </p>
