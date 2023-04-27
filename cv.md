@@ -76,6 +76,7 @@ description: Matthias Himmelmann.
 </tr>
 </table>
 
+<br>
 <p> </p>
 <p style="text-align: center;">
 <img src="/images/bmnlinesongyroid.png" alt="The $\Gamma^+$ rod packing depicted as lines on the gyroid" width="49%" height="49%"/>

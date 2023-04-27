@@ -94,6 +94,7 @@ description: Matthias Himmelmann.
 </tr>
 </table>
 
+<br>
 <p> </p>
 <p style="text-align: center;">
 <img src="/images/clasptetrahedralmodel.png" alt="The tetrahedral model for filament packings" width="55%" height="55%"/>
