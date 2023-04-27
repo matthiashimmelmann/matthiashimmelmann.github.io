@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Matthias Himmelmann"
+title: "Research Activities"
 permalink: /research/
-description: Research Activities.
+description: Matthias Himmelmann.
 ---
 <table style="width:100%">
     <tr><td><h3><br>Publications</h3></td></tr>

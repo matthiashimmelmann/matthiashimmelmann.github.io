@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Matthias Himmelmann"
+title: "Curriculum Vitae"
 permalink: /cv/
 tags: cv
-description: Curriculum Vitae.
+description: Matthias Himmelmann.
 ---
 <table style="width:100%">
 
