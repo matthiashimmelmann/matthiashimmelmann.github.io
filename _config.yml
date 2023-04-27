@@ -1,5 +1,5 @@
-theme: jekyll-theme-minimal
-author: Matthias Himmelmann
-title: Matthias Himmelmann
-description: PhD Student, Universität Potsdam
-logo: images/Bewerbungsfoto20183.JPG
+title: Slate theme
+description: Slate is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-slate
