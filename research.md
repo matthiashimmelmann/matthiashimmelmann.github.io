@@ -3,11 +3,6 @@ layout: default
 title: "Matthias Himmelmann"
 permalink: /research/
 description: Research Activities.
-<p>Email: himmelmann1 (at) uni-potsdam.de</p>
-	<p>Github: <a href="https://github.com/matthiashimmelmann" style="color:white;">matthiashimmelmann</a></p>
-	  <a href="https://matthiashimmelmann.github.io/" class="btn">Home</a>
-        <a href="https://matthiashimmelmann.github.io/cv/" class="btn">CV</a>
-        <a href="https://matthiashimmelmann.github.io/research/" class="btn">Research</a>
 ---
 <table style="width:100%">
     <tr><td><h3><br>Publications</h3></td></tr>
