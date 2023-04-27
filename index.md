@@ -2,6 +2,7 @@
 title: "Matthias Himmelmann"
 layout: default
 tags: home
+permalink: /index/
 description: PhD Student at the university of Potsdam.
 ---
 
