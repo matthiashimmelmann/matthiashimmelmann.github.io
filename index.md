@@ -1,6 +1,7 @@
 ---
 layout: default
 tags: home
+permalink: /index/
 ---
 
  <p style="text-align: center;">
