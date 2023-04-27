@@ -1,21 +1,123 @@
 ---
 layout: default
-tags: home
 ---
 
- <p style="text-align: center;">
-<img src="/images/sgnrodpackingpic.png" alt="$\Sigma^+$ cylinder packing" width="80%" height="80%"/>
-</p>
+Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+[Link to another page](./another-page.html).
+
+There should be whitespace between paragraphs.
+
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+
+# Header 1
+
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+## Header 2
+
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
+
+### Header 3
+
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
+
+```ruby
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+```
+
+#### Header 4
+
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+
+##### Header 5
+
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header.
+
+###### Header 6
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+### There's a horizontal rule below this.
+
+* * *
+
+### Here is an unordered list:
+
+*   Item foo
+*   Item bar
+*   Item baz
+*   Item zip
+
+### And an ordered list:
+
+1.  Item one
+1.  Item two
+1.  Item three
+1.  Item four
+
+### And a nested list:
+
+- level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+
+### Small image
+
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+### Large image
+
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-At the Universität Potsdam and Berlin Mathematical School, I am studying as a second year PhD student under the supervision of <a href="https://www.math.uni-potsdam.de/professuren/applied-geometry-and-topology/team/prof-dr-myfanwy-evans/">Myfanwy Evans</a>. My main fields of interest are applied algebraic geometry and data science. I am always looking for interesting ways to intersect these topics.  
+### Definition lists can be used with HTML syntax.
 
-Using code, I develop tools that help to model and visualize mathematics. At the moment, I am trying to apply algebro-geometric techniques to better understand discontinuous behavior of materials, especially tensegrity frameworks, funded by the <a href="https://www.discretization.de/">SFB Transregio 109 - Discretization in Geometry and Dynamics</a>. Furthermore, I am interested in modelling porous materials such as sponge phases, aided by minimal surfaces. 
+<dl>
+<dt>Name</dt>
+<dd>Godzilla</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
 
-My Bachelor's thesis <a href="https://matthiashimmelmann.github.io/documents/bachelorarbeit.pdf">"Galois Groups and Fundamental Groups on Riemann Surfaces"</a> at Freie Universität Berlin was advised by <a href="http://www.math.titech.ac.jp/~shanekelly/">Shane Kelly</a> and treated categorial equivalences between specific function fields and the fundamental group on smooth surfaces. I received the <a href="https://www.math.berlin/preise/bachelorpreise-bmg.html#BMGTag2018">bachelor's prize of the Berlin Mathematical Society</a> for it. My Master's thesis <a href="https://matthiashimmelmann.github.io/documents/Masterarbeit_Himmelmann_GPCA.pdf">"Generalized Principal Component Analysis on Algebraic Varieties"</a> was also conducted at Freie Universität Berlin, with the goal of developing a robust method for finding vanishing ideals from point samples. I was advised by <a href="https://sascha.timme.xyz/">Sascha Timme</a> and supervised by <a href="https://math.berkeley.edu/~bernd/">Bernd Sturmfels</a>.
+```
+Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+```
 
-Outside of academia, I enjoy food, coding, traveling, playing board games, climbing and solving puzzles.
-
- <p style="text-align: center;">
-<img src="/images/sgntensegritypic.png " alt="Tensegrity representation of the $\Sigma^+$ cylinder packing" width="80%" height="80%"/>
-</p>
+```
+The final element.
+```
