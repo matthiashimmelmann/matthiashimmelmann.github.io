@@ -5,7 +5,7 @@ permalink: /research/
 description: Research Activities.
 <p>Email: himmelmann1 (at) uni-potsdam.de</p>
 	<p>Github: <a href="https://github.com/matthiashimmelmann" style="color:white;">matthiashimmelmann</a></p>
-	  <a href="https://matthiashimmelmann.github.io/index/" class="btn">Home</a>
+	  <a href="https://matthiashimmelmann.github.io/" class="btn">Home</a>
         <a href="https://matthiashimmelmann.github.io/cv/" class="btn">CV</a>
         <a href="https://matthiashimmelmann.github.io/research/" class="btn">Research</a>
 ---
