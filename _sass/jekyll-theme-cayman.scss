@@ -114,10 +114,6 @@ a {
   background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
   overflow:hidden;
 
-  @include large {
-    padding: 4rem 5rem;
-  }
-
   @include medium {
     padding: 2rem 3rem;
   }
