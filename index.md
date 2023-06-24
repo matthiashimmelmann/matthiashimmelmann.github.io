@@ -10,7 +10,7 @@ Using code, I develop tools that help to model and visualize mathematics. At the
 
 My Bachelor's thesis <a href="https://matthiashimmelmann.github.io/documents/bachelorarbeit.pdf">"Galois Groups and Fundamental Groups on Riemann Surfaces"</a> at Freie Universität Berlin was advised by <a href="http://www.math.titech.ac.jp/~shanekelly/">Shane Kelly</a> and treated categorial equivalences between specific function fields and the fundamental group on smooth surfaces. I received the <a href="https://www.math.berlin/preise/bachelorpreise-bmg.html#BMGTag2018">bachelor's prize of the Berlin Mathematical Society</a> for it. My Master's thesis <a href="https://matthiashimmelmann.github.io/documents/Masterarbeit_Himmelmann_GPCA.pdf">"Generalized Principal Component Analysis on Algebraic Varieties"</a> was also conducted at Freie Universität Berlin, with the goal of developing a robust method for finding vanishing ideals from point samples. I was advised by <a href="https://sascha.timme.xyz/">Sascha Timme</a> and supervised by <a href="https://math.berkeley.edu/~bernd/">Bernd Sturmfels</a>.
 
-Outside of academia, I enjoy food, coding, traveling, playing board games, climbing and solving puzzles.
+Outside of academia, I enjoy cooking and consuming delicious food, coding, traveling, playing board games, climbing and solving puzzles.
 
 <br><br>
  <p style="text-align: center;">
