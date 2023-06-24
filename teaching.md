@@ -1,8 +1,11 @@
 ---
 layout: default
-title: "Teaching"
+title: "Teaching Activities"
 permalink: /teaching/
+tags: teaching
+description: Matthias Himmelmann
 ---
-<h2>Teaching</h2>
+<h4>Winter Semester 2023/24<h4>
+  Algorithmic Algebraic Geometry
 <h4>Summer Semester 2022</h4>
-Mathematisches Problemlösen
+  Mathematisches Problemlösen
