@@ -56,7 +56,12 @@ description: Matthias Himmelmann.
 <tr> <td><h3><br>Conferences</h3></td></tr>
 <tr>
     <td>2023</td>
-    <td>Participation in the Focus Program on Geometric Constraint Systems (Toronto, Canada)</td>
+    <td>Participation in the DGD Days on "Discretization in Geometry and Dynamics" (TU München, Germany)</td>
+</tr>
+
+<tr>
+    <td>2023</td>
+    <td>Participation in the Focus Program on Geometric Constraint Systems (Fields Institute Toronto, Canada)</td>
 </tr>
     
 <tr>
