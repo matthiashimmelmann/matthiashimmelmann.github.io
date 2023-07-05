@@ -2,7 +2,7 @@
 title: "Matthias Himmelmann"
 layout: default
 tags: home
-description: PhD Student at the university of Potsdam.
+description: PhD Student at the University of Potsdam.
 ---
 At the Universität Potsdam and Berlin Mathematical School, I am studying as a third year PhD student under the supervision of <a href="https://www.math.uni-potsdam.de/professuren/applied-geometry-and-topology/team/prof-dr-myfanwy-evans/">Myfanwy Evans</a> and <a href="https://sites.google.com/view/alexander-heaton/home">Alexander Heaton</a>. My main fields of interest are applied algebraic geometry and data science. I am always looking for interesting ways to intersect these topics.  
 
