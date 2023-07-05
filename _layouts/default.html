@@ -16,15 +16,14 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
-	<!--
-	    <style media="all">
-	.mobile-display{display:none}
-	.desktop-display{display:block}
-	@media (max-width:1000px){
-	. desktop-display {display:none}
-	. mobile-display {display:block}
+	<style media="all">
+	.ad__mobile{display:none}
+	.ad__desktop{display:block}
+	@media (max-width:1200px){
+	.ad__desktop{display:none}
+	.ad__mobile{display:block}
 	}
-	</style>-->
+	</style>
 	    
       <div class="ad__desktop">
 		<img src="https://raw.githubusercontent.com/matthiashimmelmann/matthiashimmelmann.github.io/main/images/Bewerbungsfoto20183.JPG"  
@@ -70,7 +69,7 @@
 		</span>
       </div>
 
-	<script>
+	<!--<script>
     	const isMobile = matchMedia('(max-device-width: 1200px)').matches;
     	const ad = document.currentScript.closest('.ad');
     	const content = ad
@@ -78,7 +77,7 @@
       .content;
     
     ad.appendChild(document.importNode(content, true));
-  </script>
+  </script>-->
 
     </header>
 
