@@ -17,7 +17,7 @@
 
     <header class="page-header" role="banner">
 
-      <div>
+      <div class="desktop-display">
 		<img src="https://raw.githubusercontent.com/matthiashimmelmann/matthiashimmelmann.github.io/main/images/Bewerbungsfoto20183.JPG"  
 	 	style="object-fit:fill;
             width:15.5vw;
@@ -32,6 +32,24 @@
 		float: left;"/>
 		<span style="vertical-align:middle; text-align:center; float:center;">
 	      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+	      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+		<p>Email: himmelmann1 (at) uni-potsdam.de</p>
+		<p>Github: <a href="https://github.com/matthiashimmelmann" style="color:white;">matthiashimmelmann</a></p><br>
+		<p> </p>
+		<a href="https://matthiashimmelmann.github.io/" class="btn">Home</a>
+		<a href="https://matthiashimmelmann.github.io/cv/" class="btn">CV</a>
+		<a href="https://matthiashimmelmann.github.io/research/" class="btn">Research</a>
+		<a href="https://matthiashimmelmann.github.io/teaching/" class="btn">Teaching</a>
+		</span>
+      </div>
+
+      <div class="mobile-display">
+	      	      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+	<img src="https://raw.githubusercontent.com/matthiashimmelmann/matthiashimmelmann.github.io/main/images/Bewerbungsfoto20183.JPG"  
+            width:30vw;
+            height:auto;
+            border: solid 0.5vw #CCC;"/>
+		<span style="vertical-align:middle; text-align:center; float:center;">
 	      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
 		<p>Email: himmelmann1 (at) uni-potsdam.de</p>
 		<p>Github: <a href="https://github.com/matthiashimmelmann" style="color:white;">matthiashimmelmann</a></p><br>
