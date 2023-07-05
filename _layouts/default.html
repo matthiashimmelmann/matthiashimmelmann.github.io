@@ -16,7 +16,7 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
-
+	<!--
 	    <style media="all">
 	.mobile-display{display:none}
 	.desktop-display{display:block}
@@ -24,8 +24,9 @@
 	. desktop-display {display:none}
 	. mobile-display {display:block}
 	}
-	</style>
-      <div class="desktop-display">
+	</style>-->
+	    
+      <div class="ad__desktop">
 		<img src="https://raw.githubusercontent.com/matthiashimmelmann/matthiashimmelmann.github.io/main/images/Bewerbungsfoto20183.JPG"  
 	 	style="object-fit:fill;
             width:15.5vw;
@@ -51,7 +52,7 @@
 		</span>
       </div>
 
-      <div class="mobile-display">
+      <div class="ad__mobile">
 	<h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
 	      	      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
 	<img src="https://raw.githubusercontent.com/matthiashimmelmann/matthiashimmelmann.github.io/main/images/Bewerbungsfoto20183.JPG"  
@@ -68,6 +69,16 @@
 		<a href="https://matthiashimmelmann.github.io/teaching/" class="btn">Teaching</a>
 		</span>
       </div>
+
+	<script>
+    	const isMobile = matchMedia('(max-device-width: 30em)').matches;
+    	const ad = document.currentScript.closest('.ad');
+    	const content = ad
+      .querySelector(isMobile ? '.ad__mobile' : '.ad__desktop')
+      .content;
+    
+    ad.appendChild(document.importNode(content, true));
+  </script>
 
     </header>
 
