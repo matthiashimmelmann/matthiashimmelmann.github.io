@@ -13,6 +13,10 @@ description: Matthias Himmelmann.
     <td>PhD student at the Universität Potsdam under the supervision of Myfanwy Evans and Phase II student at the Berlin Mathematical School</td>
 </tr>
 <tr>
+    <td>2023</td>
+    <td>Research Stay at the Fields Institute, Toronto in the context of the Focus Program on Geometric Constraint Systems</td>
+</tr>
+<tr>
     <td>2018 - 2020</td>
     <td>M.Sc. in Mathematics at the Freie Universität Berlin<br>
     (<a href="/documents/Masterarbeit_Himmelmann_GPCA.pdf">Master's Thesis</a>)</td>
