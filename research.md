@@ -18,7 +18,13 @@ description: Matthias Himmelmann.
   <tr><td><h3><br>Presentations</h3></td></tr>
   <tr>
         <td>2023, Talk</td>
-        <td>A Tetrahedral Tensegrity Model for Filament Packings. <a href="http://www.fields.utoronto.ca/activities/23-24/constraint-materials">Workshop on Geometric Constraints</a>, Fields Institute, Toronto.</td>
+        <td>Riemannian Optimization on Embedded Manifolds Using Homotopy Continuation. <a href="http://www.fields.utoronto.ca/activities/23-24/constraint-systems">Workshop on Constraint Systems: Distance Geometry, Structured Polynomials, Matrix Completion and Kinematics</a>, Fields Institute, Toronto.</td>
+    </tr>
+
+  
+  <tr>
+        <td>2023, Talk</td>
+        <td>A Tetrahedral Tensegrity Model for Filament Packings. <a href="http://www.fields.utoronto.ca/activities/23-24/constraint-materials">Workshop on Geometric Constraints: Materials, Graphs and Matroids, Rigidity and Packings</a>, Fields Institute, Toronto.</td>
     </tr>
     <tr>
         <td>2023, Talk</td>
