@@ -71,6 +71,11 @@ description: Matthias Himmelmann.
 
 <tr>
     <td>2023</td>
+    <td>Participation in the Conference on "Applied Algebra" (Osnabrück, Germany)</td>
+</tr>
+
+<tr>
+    <td>2023</td>
     <td>Participation in the Focus Program on Geometric Constraint Systems (Fields Institute Toronto, Canada)</td>
 </tr>
     
