@@ -33,7 +33,7 @@ description: Matthias Himmelmann.
         <td>Towards a Robust Tensegrity Model for the Mechanics of Filament Packings. <a href="https://tangle-conference.de/">The interdisciplinary world of tangling conference</a>, Potsdam.</td>
     </tr>
     <tr>
-        <td>2020, Poster</td>
+        <td>2020, Talk</td>
         <td>Generalized Principal Component Analysis for Algebraic Varieties. <a href="http://www.facetsofcomplexity.de/monday/index.html">Facets of Complexity: Monday Lecture and Colloquium</a>, Berlin.</td>
     </tr>
 
