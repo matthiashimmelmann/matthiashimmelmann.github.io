@@ -32,10 +32,6 @@ description: Matthias Himmelmann.
         <td>2022, Poster</td>
         <td>Towards a Robust Tensegrity Model for the Mechanics of Filament Packings. <a href="https://tangle-conference.de/">The interdisciplinary world of tangling conference</a>, Potsdam.</td>
     </tr>
-    <tr>
-        <td>2020, Talk</td>
-        <td>Generalized Principal Component Analysis for Algebraic Varieties. <a href="http://www.facetsofcomplexity.de/monday/20201214-L-Himmelmann.html">Facets of Complexity: Monday Lecture and Colloquium</a>, Berlin.</td>
-    </tr>
 
 
 <tr><td><h3><br>Software Projects</h3></td></tr>
