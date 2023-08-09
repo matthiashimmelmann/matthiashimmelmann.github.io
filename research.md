@@ -20,8 +20,6 @@ description: Matthias Himmelmann.
         <td>2023, Talk</td>
         <td>Riemannian Optimization on Embedded Manifolds Using Homotopy Continuation. <a href="http://www.fields.utoronto.ca/activities/23-24/constraint-systems">Workshop on Constraint Systems: Distance Geometry, Structured Polynomials, Matrix Completion and Kinematics</a>, Fields Institute, Toronto.</td>
     </tr>
-
-  
   <tr>
         <td>2023, Talk</td>
         <td>A Tetrahedral Tensegrity Model for Filament Packings. <a href="http://www.fields.utoronto.ca/activities/23-24/constraint-materials">Workshop on Geometric Constraints: Materials, Graphs and Matroids, Rigidity and Packings</a>, Fields Institute, Toronto.</td>
@@ -34,7 +32,6 @@ description: Matthias Himmelmann.
         <td>2022, Poster</td>
         <td>Towards a Robust Tensegrity Model for the Mechanics of Filament Packings. <a href="https://tangle-conference.de/">The interdisciplinary world of tangling conference</a>, Potsdam.</td>
     </tr>
-
     <tr>
         <td>2020, Talk</td>
         <td>Generalized Principal Component Analysis for Algebraic Varieties. <a href="http://www.facetsofcomplexity.de/monday/20201214-L-Himmelmann.html">Facets of Complexity: Monday Lecture and Colloquium</a>, Berlin.</td>
