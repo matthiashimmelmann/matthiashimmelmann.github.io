@@ -32,6 +32,10 @@ description: Matthias Himmelmann.
         <td>2022, Poster</td>
         <td>Towards a Robust Tensegrity Model for the Mechanics of Filament Packings. <a href="https://tangle-conference.de/">The interdisciplinary world of tangling conference</a>, Potsdam.</td>
     </tr>
+    <tr>
+        <td>2020, Poster</td>
+        <td>Towards a Robust Tensegrity Model for the Mechanics of Filament Packings. <a href="https://tangle-conference.de/">The interdisciplinary world of tangling conference</a>, Potsdam.</td>
+    </tr>
 
 
 <tr><td><h3><br>Software Projects</h3></td></tr>
