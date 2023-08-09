@@ -66,12 +66,12 @@ description: Matthias Himmelmann.
 <tr> <td><h3><br>Conferences</h3></td></tr>
 <tr>
     <td>2023</td>
-    <td>Participation in the DGD Days on "Discretization in Geometry and Dynamics" (TU München, Germany)</td>
+    <td>Participation in the DGD Days on Discretization in Geometry and Dynamics (TU München, Germany)</td>
 </tr>
 
 <tr>
     <td>2023</td>
-    <td>Participation in the Conference on "Applied Algebra" (Osnabrück, Germany)</td>
+    <td>Participation in the Conference on Applied Algebra (Osnabrück, Germany)</td>
 </tr>
 
 <tr>
