@@ -5,7 +5,7 @@ permalink: /teaching/
 tags: teaching
 description: Matthias Himmelmann
 ---
-<font size="3">
+<font size="2">
 <h4>Winter Semester 2023/24</h4>
   Algorithmic Algebraic Geometry
 <h4>Summer Semester 2022</h4>
