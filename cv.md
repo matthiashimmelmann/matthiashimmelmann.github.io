@@ -5,8 +5,7 @@ permalink: /cv/
 tags: cv
 description: Matthias Himmelmann.
 ---
-<font size="3">
-<table style="width:100%">
+<table style="width:100%; font-size:85%">
 
 <tr><td><h3><br>Education</h3></td></tr>
 <tr>
@@ -80,7 +79,6 @@ description: Matthias Himmelmann.
     <td>Book Prize of the German Physical Association for extraordinary achievements in the Abitur</td>
 </tr>
 </table>
-</font>
 
 <br>
 <p> </p>
