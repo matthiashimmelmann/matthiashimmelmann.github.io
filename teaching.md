@@ -5,6 +5,7 @@ permalink: /teaching/
 tags: teaching
 description: Matthias Himmelmann
 ---
+<font size="3">
 <h4>Winter Semester 2023/24</h4>
   Algorithmic Algebraic Geometry
 <h4>Summer Semester 2022</h4>
@@ -19,3 +20,4 @@ description: Matthias Himmelmann
   Teaching Assistent in Mathematics for Geoscientists I
 <h4>Summer Semester 2016</h4>
   Teaching Assistent in Computer-oriented Mathematics II
+</font>
