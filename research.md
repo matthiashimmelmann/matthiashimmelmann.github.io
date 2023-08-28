@@ -4,8 +4,8 @@ title: "Research Activities"
 permalink: /research/
 description: Matthias Himmelmann.
 ---
-<table style="width:100%; font-size:90%">
-    <tr><td><h3><br>Publications</h3></td></tr>
+<table style="width:100%; font-size: 14px; font-family: Georgia">
+    <tr><td><h4><br>Publications</h4></td></tr>
     <tr>
         <td>2023, Preprint</td>
         <td><a href="https://arxiv.org/abs/2303.13140">Robust geometric modeling of 3-periodic tensegrity frameworks using Riemannian optimization</a> (joint work with Myfanwy Evans).</td>
@@ -15,7 +15,7 @@ description: Matthias Himmelmann.
         <td><a href="https://arxiv.org/abs/2206.14106">Computing Euclidean distance and maximum likelihood retraction maps for constrained optimization</a> (joint work with Alex Heaton).</td>
     </tr>
   
-  <tr><td><h3><br>Presentations</h3></td></tr>
+  <tr><td><h4><br>Presentations</h4></td></tr>
   <tr>
         <td>2023, Talk</td>
         <td>Riemannian Optimization on Embedded Manifolds Using Homotopy Continuation. <a href="http://www.fields.utoronto.ca/activities/23-24/constraint-systems">Workshop on Constraint Systems: Distance Geometry, Structured Polynomials, Matrix Completion and Kinematics</a>, Fields Institute, Toronto.</td>
@@ -38,7 +38,7 @@ description: Matthias Himmelmann.
     </tr>
 
 
-<tr><td><h3><br>Software Projects</h3></td></tr>
+<tr><td><h4><br>Software Projects</h4></td></tr>
 <tr>
   <td>2023</td>
   <td><a href="https://github.com/matthiashimmelmann/DisorderedPointClusters.jl">DisorderedPointClusters.jl</a>: A package to create disordered, yet hyperuniform point sets to ultimately generate disordered minimal surfaces.</td>
@@ -66,7 +66,7 @@ description: Matthias Himmelmann.
   <td><a href="https://github.com/matthiashimmelmann/LearnVanishingIdeal.jl">LearnVanishingIdeal.jl</a>: A Julia package for learning an algebraic variety from point clouds that respects the underlying geometry</td>
 </tr>
     
-<tr> <td><h3><br>Conferences</h3></td></tr>
+<tr> <td><h4><br>Conferences</h4></td></tr>
 <tr>
     <td>2023</td>
     <td>Participation in the DGD Days on Discretization in Geometry and Dynamics (TU München, Germany)</td>
