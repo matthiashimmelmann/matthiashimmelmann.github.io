@@ -120,5 +120,5 @@ description: Matthias Himmelmann.
 <br>
 <p> </p>
 <p style="text-align: center;">
-<img src="/images/clasptetrahedralmodel.png" alt="The tetrahedral model for filament packings" width="55%" height="55%"/>
+<img src="/images/clasptetrahedralmodel.png" title="The tetrahedral model for filament packings" alt="The tetrahedral model for filament packings" width="55%" height="55%"/>
 </p>
