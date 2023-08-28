@@ -5,19 +5,19 @@ permalink: /teaching/
 tags: teaching
 description: Matthias Himmelmann.
 ---
-<p style="font-size: 110%; font-family: Perpetua">
-<h4>Winter Semester 2023/24</h4>
+<p style="font-size: 90%;">
+<h3>Winter Semester 2023/24</h3>
   Seminar: Algorithmic Algebraic Geometry
-<h4>Summer Semester 2022</h4>
+<h3>Summer Semester 2022</h3>
   Lecture: Mathematical Problem Solving
-<h4>Winter Semester 2020/21</h4>
+<h3>Winter Semester 2020/21</h3>
   Teaching Assistant in Computeralgebra
-<h4>Summer Semester 2018</h4>
+<h3>Summer Semester 2018</h3>
   Mentor of Linear Algebra for Computer Scientists
-<h4>Summer Semester 2017</h4>
+<h3>Summer Semester 2017</h3>
   Teaching Assistent in Mathematics for Geoscientists II
-<h4>Winter Semester 2016/17</h4>
+<h3>Winter Semester 2016/17</h3>
   Teaching Assistent in Mathematics for Geoscientists I
-<h4>Summer Semester 2016</h4>
+<h3>Summer Semester 2016</h3>
   Teaching Assistent in Computer-oriented Mathematics II
 </p>
