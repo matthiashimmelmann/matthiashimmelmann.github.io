@@ -4,7 +4,7 @@ title: "Research Activities"
 permalink: /research/
 description: Matthias Himmelmann.
 ---
-<table style="width:100%; font-size: 100%; font-family: Perpetua">
+<table style="width:100%; font-size: 110%; font-family: Perpetua">
     <tr><td><h4><br>Publications</h4></td></tr>
     <tr>
         <td>2023, Preprint</td>
