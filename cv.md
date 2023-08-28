@@ -5,7 +5,7 @@ permalink: /cv/
 tags: cv
 description: Matthias Himmelmann.
 ---
-<table style="width:100%; font-size: 95%; font-family: Georgia">
+<table style="width:100%; font-size: 100%; font-family: Perpetua">
 
 <tr><td><h4><br>Education</h4></td></tr>
 <tr>
