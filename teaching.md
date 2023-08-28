@@ -3,7 +3,7 @@ layout: default
 title: "Teaching Activities"
 permalink: /teaching/
 tags: teaching
-description: Matthias Himmelmann
+description: Matthias Himmelmann.
 ---
 <p style="font-size: 100%; font-family: Perpetua">
 <h4>Winter Semester 2023/24</h4>
