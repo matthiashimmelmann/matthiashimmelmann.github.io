@@ -5,7 +5,7 @@ permalink: /teaching/
 tags: teaching
 description: Matthias Himmelmann.
 ---
-<p style="font-size: 100%; font-family: Perpetua">
+<p style="font-size: 110%; font-family: Perpetua">
 <h4>Winter Semester 2023/24</h4>
   Seminar: Algorithmic Algebraic Geometry
 <h4>Summer Semester 2022</h4>
