@@ -5,9 +5,9 @@ permalink: /cv/
 tags: cv
 description: Matthias Himmelmann.
 ---
-<table style="width:100%; font-size:90%">
+<table style="width:100%; font-size: 14px; font-family: Georgia">
 
-<tr><td><h3><br>Education</h3></td></tr>
+<tr><td><h4><br>Education</h4></td></tr>
 <tr>
     <td>2021 - today</td>
     <td>PhD student at the Universität Potsdam under the supervision of Myfanwy Evans and Phase II student at the Berlin Mathematical School</td>
@@ -31,7 +31,7 @@ description: Matthias Himmelmann.
      (<a href="/documents/bachelorarbeit.pdf">Bachelor's Thesis</a>)</td>
 </tr>
 
-<tr><td><h3><br>Work Experience</h3></td></tr>
+<tr><td><h4><br>Work Experience</h4></td></tr>
 
 
 <tr>
@@ -51,7 +51,7 @@ description: Matthias Himmelmann.
     <td>Federal voluntary service at the Deutscher Turner-Bund e.V. in public relations and event management. </td>
 </tr>
 
-<tr><td><h3><br>Teaching</h3></td></tr>
+<tr><td><h4><br>Teaching</h4></td></tr>
 <tr>
     <td>2022</td>
     <td>Mathematisches Problemlösen</td>
@@ -69,7 +69,7 @@ description: Matthias Himmelmann.
     <td>2016 - 2017</td>
     <td>Tutor of Computer-oriented Mathematics II and Mathematics for Geoscientists I and II</td>
 </tr>
-<tr> <td><h3><br>Prizes</h3></td></tr>
+<tr> <td><h4><br>Prizes</h4></td></tr>
 <tr>
     <td>2018</td>
     <td>Prize of the Berlin Mathematical Association for outstanding achievements in the bachelor's degree</td>
