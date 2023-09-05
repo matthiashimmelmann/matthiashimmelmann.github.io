@@ -17,6 +17,11 @@ description: Matthias Himmelmann.
   
   <tr><td><h4><br>Presentations</h4></td></tr>
   <tr>
+        <td>2023, Poster</td>
+        <td>Riemannian Optimization and Algebraic Varieties - a Contradiction? <a href="https://www.math-conf.uni-osnabrueck.de/conference-on-applied-algebra-in-data-science/">Conference on Applied Algebra</a>, Universität Osnabrück.</td>
+    </tr>
+  
+  <tr>
         <td>2023, Talk</td>
         <td>Riemannian Optimization on Embedded Manifolds Using Homotopy Continuation. <a href="http://www.fields.utoronto.ca/activities/23-24/constraint-systems">Workshop on Constraint Systems: Distance Geometry, Structured Polynomials, Matrix Completion and Kinematics</a>, Fields Institute, Toronto.</td>
     </tr>
@@ -30,11 +35,11 @@ description: Matthias Himmelmann.
     </tr>
     <tr>
         <td>2022, Poster</td>
-        <td>Towards a Robust Tensegrity Model for the Mechanics of Filament Packings. <a href="https://tangle-conference.de/">The interdisciplinary world of tangling conference</a>, Potsdam.</td>
+        <td>Towards a Robust Tensegrity Model for the Mechanics of Filament Packings. <a href="https://tangle-conference.de/">The interdisciplinary world of tangling conference</a>, Universität Potsdam.</td>
     </tr>
     <tr>
         <td>2020, Talk</td>
-        <td>Generalized Principal Component Analysis for Algebraic Varieties. <a href="http://www.facetsofcomplexity.de/monday/index.html">Facets of Complexity: Monday Lecture and Colloquium</a>, Berlin.</td>
+        <td>Generalized Principal Component Analysis for Algebraic Varieties. <a href="http://www.facetsofcomplexity.de/monday/index.html">Facets of Complexity: Monday Lecture and Colloquium</a>, TU Berlin.</td>
     </tr>
 
 
@@ -89,7 +94,7 @@ description: Matthias Himmelmann.
 
 <tr>
 <td>2022</td>
-    <td>Poster Talk at the Surfaces Interdisciplinary Summer School (Chiemsee, Germany)</td>
+    <td>Participation in the Interdisciplinary Summer School on Surfaces (Chiemsee, Germany)</td>
 </tr>
 
 <tr>
