@@ -75,7 +75,7 @@ description: Matthias Himmelmann.
 
 <tr>
     <td>2024</td>
-    <td>MEGA - Effective Methods in Algebraic Geometry (Leipzig, Germany)</td>
+    <td>MEGA - Effective Methods in Algebraic Geometry (MPI Leipzig, Germany)</td>
 </tr>
 
 <tr>
