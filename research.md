@@ -72,6 +72,18 @@ description: Matthias Himmelmann.
 </tr>
     
 <tr> <td><h4><br>Conferences</h4></td></tr>
+
+<tr>
+    <td>2024</td>
+    <td>MEGA - Effective Methods in Algebraic Geometry (Leipzig, Germany)</td>
+</tr>
+
+<tr>
+    <td>2024</td>
+    <td>Special Semester on Rigidity and Flexibility (RICAM Linz, Austria)</td>
+</tr>
+
+
 <tr>
     <td>2023</td>
     <td>DGD Days on Discretization in Geometry and Dynamics (TU München, Germany)</td>
