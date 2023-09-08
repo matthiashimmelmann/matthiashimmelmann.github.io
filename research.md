@@ -14,7 +14,7 @@ description: Matthias Himmelmann.
         <td>2022, Preprint</td>
         <td><a href="https://arxiv.org/abs/2206.14106"><i>Computing Euclidean distance and maximum likelihood retraction maps for constrained optimization"</i></a> (joint work with Alex Heaton).</td>
     </tr>
-
+    
     <tr><td><h4><br>Theses</h4></td></tr>
     <tr>
         <td>2021, Master</td>
@@ -24,7 +24,6 @@ description: Matthias Himmelmann.
         <td>2018, Bachelor</td>
         <td><a href="/documents/bachelorarbeit.pdf">Galois Groups and Fundamental Groups on Riemann Surfaces</a>. Supervised by Shane Kelly and Klaus Altmann.</td>
     </tr>
-
   
   <tr><td><h4><br>Presentations</h4></td></tr>
   <tr>
