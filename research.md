@@ -8,38 +8,49 @@ description: Matthias Himmelmann.
     <tr><td><h4><br>Publications</h4></td></tr>
     <tr>
         <td>2023, Preprint</td>
-        <td><a href="https://arxiv.org/abs/2303.13140">"Robust geometric modeling of 3-periodic tensegrity frameworks using Riemannian optimization"</a> (joint work with Myfanwy Evans).</td>
+        <td><a href="https://arxiv.org/abs/2303.13140"><i>Robust geometric modeling of 3-periodic tensegrity frameworks using Riemannian optimization</i></a> (joint work with Myfanwy Evans).</td>
     </tr>
     <tr>
         <td>2022, Preprint</td>
-        <td><a href="https://arxiv.org/abs/2206.14106">"Computing Euclidean distance and maximum likelihood retraction maps for constrained optimization"</a> (joint work with Alex Heaton).</td>
+        <td><a href="https://arxiv.org/abs/2206.14106"><i>Computing Euclidean distance and maximum likelihood retraction maps for constrained optimization"</i></a> (joint work with Alex Heaton).</td>
     </tr>
+
+    <tr><td><h4><br>Theses</h4></td></tr>
+    <tr>
+        <td>2021, Master</td>
+        <td><a href="/documents/Masterarbeit_Himmelmann_GPCA.pdf">Generalized Principal Component Analysis for Algebraic Varieties</a>. Supervised by Bernd Sturmfels and Christian Haase.</td>
+    </tr>
+    <tr>
+        <td>2018, Bachelor</td>
+        <td><a href="/documents/bachelorarbeit.pdf">Galois Groups and Fundamental Groups on Riemann Surfaces</a>. Supervised by Shane Kelly and Klaus Altmann.</td>
+    </tr>
+
   
   <tr><td><h4><br>Presentations</h4></td></tr>
   <tr>
         <td>2023, Poster</td>
-        <td>"Riemannian Optimization and Algebraic Varieties - a Contradiction?" <a href="https://www.math-conf.uni-osnabrueck.de/conference-on-applied-algebra-in-data-science/">Conference on Applied Algebra</a>, Universität Osnabrück.</td>
+        <td><i>Riemannian Optimization and Algebraic Varieties - a Contradiction?</i><a href="https://www.math-conf.uni-osnabrueck.de/conference-on-applied-algebra-in-data-science/">Conference on Applied Algebra</a>, Universität Osnabrück.</td>
     </tr>
   
   <tr>
         <td>2023, Talk</td>
-        <td>"Riemannian Optimization on Embedded Manifolds Using Homotopy Continuation". <a href="http://www.fields.utoronto.ca/activities/23-24/constraint-systems">Workshop on Constraint Systems: Distance Geometry, Structured Polynomials, Matrix Completion and Kinematics</a>, Fields Institute, Toronto.</td>
+        <td><i>Riemannian Optimization on Embedded Manifolds Using Homotopy Continuation</i>. <a href="http://www.fields.utoronto.ca/activities/23-24/constraint-systems">Workshop on Constraint Systems: Distance Geometry, Structured Polynomials, Matrix Completion and Kinematics</a>, Fields Institute, Toronto.</td>
     </tr>
   <tr>
         <td>2023, Talk</td>
-        <td>"A Tetrahedral Tensegrity Model for Filament Packings". <a href="http://www.fields.utoronto.ca/activities/23-24/constraint-materials">Workshop on Geometric Constraints: Materials, Graphs and Matroids, Rigidity and Packings</a>, Fields Institute, Toronto.</td>
+        <td><i>A Tetrahedral Tensegrity Model for Filament Packings".</i> <a href="http://www.fields.utoronto.ca/activities/23-24/constraint-materials">Workshop on Geometric Constraints: Materials, Graphs and Matroids, Rigidity and Packings</a>, Fields Institute, Toronto.</td>
     </tr>
     <tr>
         <td>2023, Talk</td>
-        <td>"Framework Materials and Cylinder Packings". <a href="https://www.math.uni-potsdam.de/studium/studierende/default-8819680ed3/">SIAM Chapter</a>, Potsdam.</td>
+        <td><i>Framework Materials and Cylinder Packings</i>. <a href="https://www.math.uni-potsdam.de/studium/studierende/default-8819680ed3/">SIAM Chapter</a>, Potsdam.</td>
     </tr>
     <tr>
         <td>2022, Poster</td>
-        <td>"Towards a Robust Tensegrity Model for the Mechanics of Filament Packings". <a href="https://tangle-conference.de/">The interdisciplinary world of tangling conference</a>, Universität Potsdam.</td>
+        <td><i>Towards a Robust Tensegrity Model for the Mechanics of Filament Packings</i>. <a href="https://tangle-conference.de/">The interdisciplinary world of tangling conference</a>, Universität Potsdam.</td>
     </tr>
     <tr>
         <td>2020, Talk</td>
-        <td>"Generalized Principal Component Analysis for Algebraic Varieties". <a href="http://www.facetsofcomplexity.de/monday/index.html">Facets of Complexity: Monday Lecture and Colloquium</a>, TU Berlin.</td>
+        <td><i>Generalized Principal Component Analysis for Algebraic Varieties</i>. <a href="http://www.facetsofcomplexity.de/monday/index.html">Facets of Complexity: Monday Lecture and Colloquium</a>, TU Berlin.</td>
     </tr>
 
 
