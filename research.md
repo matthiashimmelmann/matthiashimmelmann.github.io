@@ -90,12 +90,12 @@ description: Matthias Himmelmann.
 
 <tr>
     <td>2024</td>
-    <td>A Copenhagen Afternoon on Geometry and Topology in Soft Materials (Niels Bohr Institute, University of Copenhagen, Denmark)</td>
+    <td>Special Semester on Rigidity and Flexibility (RICAM Linz, Austria)</td>
 </tr>
 
 <tr>
     <td>2024</td>
-    <td>Special Semester on Rigidity and Flexibility (RICAM Linz, Austria)</td>
+    <td>A Copenhagen Afternoon on Geometry and Topology in Soft Materials (Niels Bohr Institute, University of Copenhagen, Denmark)</td>
 </tr>
 
 <tr>
