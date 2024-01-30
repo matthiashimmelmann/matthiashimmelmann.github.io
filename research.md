@@ -12,7 +12,7 @@ description: Matthias Himmelmann.
     </tr>
     <tr>
         <td>2022, Preprint</td>
-        <td><a href="https://arxiv.org/abs/2206.14106"><i>Computing Euclidean distance and maximum likelihood retraction maps for constrained optimization"</i></a> (joint work with Alex Heaton).</td>
+        <td><a href="https://arxiv.org/abs/2206.14106"><i>Computing Euclidean distance and maximum likelihood retraction maps for constrained optimization</i></a> (joint work with Alex Heaton).</td>
     </tr>
     
     <tr><td><h4><br>Theses</h4></td></tr>
@@ -90,9 +90,13 @@ description: Matthias Himmelmann.
 
 <tr>
     <td>2024</td>
-    <td>Special Semester on Rigidity and Flexibility (RICAM Linz, Austria)</td>
+    <td>A Copenhagen Afternoon on Geometry and Topology in Soft Materials (Niels Bohr Institute, University of Copenhagen, Denmark)</td>
 </tr>
 
+<tr>
+    <td>2024</td>
+    <td>Special Semester on Rigidity and Flexibility (RICAM Linz, Austria)</td>
+</tr>
 
 <tr>
     <td>2023</td>
