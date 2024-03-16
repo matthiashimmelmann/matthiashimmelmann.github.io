@@ -53,6 +53,11 @@ description: Matthias Himmelmann.
 
 <tr><td><h4><br>Teaching</h4></td></tr>
 <tr>
+    <td>2023 - 2024</td>
+    <td>Algorithmic Algebraic Geometry</td>
+</tr>
+
+<tr>
     <td>2022</td>
     <td>Mathematisches Problemlösen</td>
 </tr>

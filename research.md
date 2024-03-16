@@ -27,8 +27,23 @@ description: Matthias Himmelmann.
   
   <tr><td><h4><br>Presentations</h4></td></tr>
   <tr>
+        <td>2024, Talk</td>
+        <td><i>Homotopy Continuation Methods for Equilibration and Deformation Path Computation</i>. <a href="https://www.ricam.oeaw.ac.at/specsem/specsem2024/workshop2/">Code of Rigidity during the Special Semester on Rigidity and Flexibility</a>, RICAM, Linz, Austria.</td>
+  </tr>
+
+  <tr>
+        <td>2024, Talk</td>
+        <td><i>Exploring Gaussian Curvature Heterogeneity by Modeling Disorder in Minimal Surfaces</i>. <a href="https://indico.nbi.ku.dk/event/2050/">NBIA Workhop: A Copanhagen afternoon on geometry and topology in soft materials</a>, Niels Bohr Institut, Copenhagen, Denmark.</td>
+  </tr>
+
+  <tr>
+        <td>2024, Talk</td>
+        <td><i>Enhanced Geometrical Design for Cylinder Packings</i>. <a href="http://www.iaa.tu-bs.de/AppliedAlgebra/AAA/">Applied Algebra Seminar</a>, TU Braunschweig, Germany.</td>
+  </tr>
+
+  <tr>
         <td>2023, Poster</td>
-        <td><i>Riemannian Optimization and Algebraic Varieties - a Contradiction?</i><a href="https://www.math-conf.uni-osnabrueck.de/conference-on-applied-algebra-in-data-science/">Conference on Applied Algebra</a>, Universität Osnabrück.</td>
+        <td><i>Riemannian Optimization and Algebraic Varieties - a Contradiction?</i> <a href="https://www.math-conf.uni-osnabrueck.de/conference-on-applied-algebra-in-data-science/">Conference on Applied Algebra</a>, Universität Osnabrück.</td>
     </tr>
   
   <tr>
@@ -54,6 +69,12 @@ description: Matthias Himmelmann.
 
 
 <tr><td><h4><br>Software Projects</h4></td></tr>
+<tr>
+  <td>2024</td>
+  <td><a href="https://github.com/PyRigi/PyRigi">PyRigi</a>: A general-purpose Python package concerning the rigidity and flexibility of bar-and-joint frameworks.</td>
+</tr>
+
+
 <tr>
   <td>2023</td>
   <td><a href="https://github.com/matthiashimmelmann/DisorderedPointClusters.jl">DisorderedPointClusters.jl</a>: A package to create disordered, yet hyperuniform point sets to ultimately generate disordered minimal surfaces.</td>
