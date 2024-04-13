@@ -7,12 +7,12 @@ description: Matthias Himmelmann.
 <table style="width:100%; font-size: 90%;">
     <tr><td><h4><br>Publications</h4></td></tr>
     <tr>
-        <td>2023, Preprint</td>
-        <td><a href="https://arxiv.org/abs/2303.13140"><i>Robust geometric modeling of 3-periodic tensegrity frameworks using Riemannian optimization</i></a> (joint work with Myfanwy Evans).</td>
+        <td>2024</td>
+        <td>H. and Myfanwy Evans: <a href="https://epubs.siam.org/doi/full/10.1137/23M1559075"><i>Robust geometric modeling of 3-periodic tensegrity frameworks using Riemannian optimization</i></a>. SIAM Journal on Applied Algebra and Geometry 8.2</td>
     </tr>
     <tr>
         <td>2022, Preprint</td>
-        <td><a href="https://arxiv.org/abs/2206.14106"><i>Computing Euclidean distance and maximum likelihood retraction maps for constrained optimization</i></a> (joint work with Alex Heaton).</td>
+        <td>Alex Heaton and H.: <a href="https://arxiv.org/abs/2206.14106"><i>Computing Euclidean distance and maximum likelihood retraction maps for constrained optimization</i></a>.</td>
     </tr>
     
     <tr><td><h4><br>Theses</h4></td></tr>
