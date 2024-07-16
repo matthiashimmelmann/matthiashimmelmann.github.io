@@ -42,7 +42,7 @@ description: Matthias Himmelmann.
   </tr>
 
   <tr>
-        <td>2023, Poster</td>
+        <td>2023, <a href="/documents/Riemanniann_Optimization_Poster-1.pdf">Poster</a></td>
         <td><i>Riemannian Optimization and Algebraic Varieties - a Contradiction?</i> <a href="https://www.math-conf.uni-osnabrueck.de/conference-on-applied-algebra-in-data-science/">Conference on Applied Algebra</a>, Universität Osnabrück.</td>
     </tr>
   
@@ -59,7 +59,7 @@ description: Matthias Himmelmann.
         <td><i>Framework Materials and Cylinder Packings</i>. <a href="https://www.math.uni-potsdam.de/studium/studierende/default-8819680ed3/">SIAM Chapter</a>, Potsdam.</td>
     </tr>
     <tr>
-        <td>2022, Poster</td>
+        <td>2022, <a href="/documents/BMN_SGN_Poster.pdf">Poster</a></td>
         <td><i>Towards a Robust Tensegrity Model for the Mechanics of Filament Packings</i>. <a href="https://tangle-conference.de/">The interdisciplinary world of tangling conference</a>, Universität Potsdam.</td>
     </tr>
     <tr>
