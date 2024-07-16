@@ -42,7 +42,7 @@ description: Matthias Himmelmann.
   </tr>
 
   <tr>
-        <td>2023, (<a href="/documents/Riemanniann_Optimization_Poster-1.pdf">Poster</a></td>
+        <td>2023, <a href="/documents/Riemanniann_Optimization_Poster-1.pdf">Poster</a></td>
         <td><i>Riemannian Optimization and Algebraic Varieties - a Contradiction?</i> <a href="https://www.math-conf.uni-osnabrueck.de/conference-on-applied-algebra-in-data-science/">Conference on Applied Algebra</a>, Universität Osnabrück.</td>
     </tr>
   
