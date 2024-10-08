@@ -8,15 +8,15 @@ description: Matthias Himmelmann.
     <tr><td><h4><br>Publications</h4></td></tr>
     <tr>
         <td>2025</td>
-        <td>Alex Heaton and H.: <a href="https://www.sciencedirect.com/science/article/pii/S0925772124000695"><i>Computing Euclidean distance and maximum likelihood retraction maps for constrained optimization</i></a>.</td>
+        <td>Alex Heaton and <b>Matthias Himmelmann</b>: <a href="https://www.sciencedirect.com/science/article/pii/S0925772124000695"><i>Computing Euclidean distance and maximum likelihood retraction maps for constrained optimization</i></a>.</td>
     </tr>
     <tr>
         <td>2024, Preprint</td>
-        <td>May Cai, H. and Birte Ostermann: <a href="https://arxiv.org/abs/2409.16234"><i>Empirically Exploring the Space of Monostationarity in Dual Phosphorylation</i></a>.</td>
+        <td>May Cai, <b>Matthias Himmelmann</b> and Birte Ostermann: <a href="https://arxiv.org/abs/2409.16234"><i>Empirically Exploring the Space of Monostationarity in Dual Phosphorylation</i></a>.</td>
     </tr>
     <tr>
         <td>2024</td>
-        <td>H. and Myfanwy Evans: <a href="https://epubs.siam.org/doi/full/10.1137/23M1559075"><i>Robust geometric modeling of 3-periodic tensegrity frameworks using Riemannian optimization</i></a>. SIAM Journal on Applied Algebra and Geometry 8.2</td>
+        <td><b>Matthias Himmelmann</b> and Myfanwy Evans: <a href="https://epubs.siam.org/doi/full/10.1137/23M1559075"><i>Robust geometric modeling of 3-periodic tensegrity frameworks using Riemannian optimization</i></a>. SIAM Journal on Applied Algebra and Geometry 8.2</td>
     </tr>
 
     
