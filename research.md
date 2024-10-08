@@ -8,7 +8,7 @@ description: Matthias Himmelmann.
     <tr><td><h4><br>Publications</h4></td></tr>
     <tr>
         <td>2025</td>
-        <td>Alex Heaton and <b>Matthias Himmelmann</b>: <a href="https://www.sciencedirect.com/science/article/pii/S0925772124000695"><i>Computing Euclidean distance and maximum likelihood retraction maps for constrained optimization</i></a>.</td>
+        <td>Alex Heaton and <b>Matthias Himmelmann</b>: <a href="https://www.sciencedirect.com/science/article/pii/S0925772124000695"><i>Computing Euclidean distance and maximum likelihood retraction maps for constrained optimization</i></a>. Computational Geomety 126</td>
     </tr>
     <tr>
         <td>2024, Preprint</td>
