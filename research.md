@@ -7,15 +7,24 @@ description: Matthias Himmelmann.
 <table style="width:100%; font-size: 90%;">
     <tr><td><h4><br>Publications</h4></td></tr>
     <tr>
+        <td>2025</td>
+        <td>Alex Heaton and H.: <a href="https://www.sciencedirect.com/science/article/pii/S0925772124000695"><i>Computing Euclidean distance and maximum likelihood retraction maps for constrained optimization</i></a>.</td>
+    </tr>
+    <tr>
+        <td>2024, Preprint</td>
+        <td>May Cai, H. and Birte Ostermann: <a href="https://arxiv.org/abs/2409.16234"><i>Empirically Exploring the Space of Monostationarity in Dual Phosphorylation</i></a>.</td>
+    </tr>
+    <tr>
         <td>2024</td>
         <td>H. and Myfanwy Evans: <a href="https://epubs.siam.org/doi/full/10.1137/23M1559075"><i>Robust geometric modeling of 3-periodic tensegrity frameworks using Riemannian optimization</i></a>. SIAM Journal on Applied Algebra and Geometry 8.2</td>
     </tr>
-    <tr>
-        <td>2022, Preprint</td>
-        <td>Alex Heaton and H.: <a href="https://arxiv.org/abs/2206.14106"><i>Computing Euclidean distance and maximum likelihood retraction maps for constrained optimization</i></a>.</td>
-    </tr>
+
     
     <tr><td><h4><br>Theses</h4></td></tr>
+    <tr>
+        <td>2024, PhD Thesis</td>
+        <td>Optimization in Geometric Materials. Supervised by Myfanwy Evans and Alexander Heaton.</td>
+    </tr>
     <tr>
         <td>2021, Master</td>
         <td><a href="/documents/Masterarbeit_Himmelmann_GPCA.pdf">Generalized Principal Component Analysis for Algebraic Varieties</a>. Supervised by Bernd Sturmfels and Christian Haase.</td>
@@ -26,6 +35,11 @@ description: Matthias Himmelmann.
     </tr>
   
   <tr><td><h4><br>Presentations</h4></td></tr>
+  <tr>
+        <td>2024, Poster</td>
+        <td><i>Exploring the Homogeneity of Disordered Minimal Surfaces</i>. <a href="https://www.phys.kindai.ac.jp/gyroidiseverywhere/about/">Gyroid is everywhere</a>, Kindai University, Osaka, Japan</td>
+  </tr>
+  
   <tr>
         <td>2024, Talk</td>
         <td><i>Homotopy Continuation Methods for Equilibration and Deformation Path Computation</i>. <a href="https://www.ricam.oeaw.ac.at/specsem/specsem2024/workshop2/">Code of Rigidity during the Special Semester on Rigidity and Flexibility</a>, RICAM, Linz, Austria.</td>
