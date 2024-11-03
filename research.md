@@ -35,6 +35,11 @@ description: Matthias Himmelmann.
     </tr>
   
   <tr><td><h4><br>Presentations</h4></td></tr>
+    <tr>
+        <td>2024, Talk</td>
+        <td><i>Optimization in Geometric Materials</i>. Discrete Algebra and Geometry Seminar, TU Eindhoven, Netherlands.</td>
+  </tr>
+
   <tr>
         <td>2024, <a href="/documents/Exploring_the_Homogeneity_of_Disordered_Minimal_Surfaces-1.pdf">Poster</a></td>
         <td><i>Exploring the Homogeneity of Disordered Minimal Surfaces</i>. <a href="https://www.phys.kindai.ac.jp/gyroidiseverywhere/about/">Gyroid is everywhere</a>, Kindai University, Osaka, Japan</td>
