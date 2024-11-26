@@ -11,8 +11,8 @@ description: Matthias Himmelmann.
         <td>Alex Heaton and <b>Matthias Himmelmann</b>: <a href="https://www.sciencedirect.com/science/article/pii/S0925772124000695"><i>Computing Euclidean distance and maximum likelihood retraction maps for constrained optimization</i></a>. Computational Geomety 126</td>
     </tr>
     <tr>
-        <td>2024, Preprint</td>
-        <td>May Cai, <b>Matthias Himmelmann</b> and Birte Ostermann: <a href="https://arxiv.org/abs/2409.16234"><i>Empirically Exploring the Space of Monostationarity in Dual Phosphorylation</i></a>.</td>
+        <td>2024</td>
+        <td>May Cai, <b>Matthias Himmelmann</b> and Birte Ostermann: <a href="https://link.springer.com/article/10.1007/s10910-024-01687-5"><i>Empirically Exploring the Space of Monostationarity in Dual Phosphorylation</i></a>. Journal of Mathematical Chemistry.</td>
     </tr>
     <tr>
         <td>2024</td>
