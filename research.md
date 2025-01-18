@@ -23,7 +23,7 @@ description: Matthias Himmelmann.
     <tr><td><h4><br>Theses</h4></td></tr>
     <tr>
         <td>2024, Ph.D.</td>
-        <td>Optimization in Geometric Materials. Supervised by Myfanwy Evans and Alexander Heaton.</td>
+        <td><a href="/documents/himmelmann_diss.pdf">Optimization in Geometric Materials</a>. Supervised by Myfanwy Evans and Alexander Heaton.</td>
     </tr>
     <tr>
         <td>2021, Master</td>
