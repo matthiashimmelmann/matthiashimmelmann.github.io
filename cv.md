@@ -11,7 +11,7 @@ description: Matthias Himmelmann.
 <tr>
     <td>2021 - 2025</td>
     <td>Ph.D. at the Universität Potsdam under the supervision of Myfanwy Evans and Phase II student at the Berlin Mathematical School<br>
-    (<a href="/documents/himmelmann_diss.pdf"> Dissertation</a>)</td>
+    (<a href="/documents/himmelmann_diss.pdf">Dissertation</a>)</td>
 </tr>
 <tr>
     <td>2023</td>
