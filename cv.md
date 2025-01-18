@@ -9,8 +9,9 @@ description: Matthias Himmelmann.
 
 <tr><td><h4><br>Education</h4></td></tr>
 <tr>
-    <td>2021 - today</td>
-    <td>PhD student at the Universität Potsdam under the supervision of Myfanwy Evans and Phase II student at the Berlin Mathematical School</td>
+    <td>2021 - 2025</td>
+    <td>Ph.D. at the Universität Potsdam under the supervision of Myfanwy Evans and Phase II student at the Berlin Mathematical School<br>
+    (<a href="/documents/himmelmann_diss.pdf"> Dissertation</a>)</td>
 </tr>
 <tr>
     <td>2023</td>
@@ -33,9 +34,12 @@ description: Matthias Himmelmann.
 
 <tr><td><h4><br>Work Experience</h4></td></tr>
 
-
 <tr>
-    <td>2021 - today</td>
+    <td>2025</td>
+    <td>Postdoctoral fellow at the ICERM, Brown University, Providence, RI, USA.</td>
+</tr>
+<tr>
+    <td>2021 - 2025</td>
     <td>Research assistant in the Mathematics institute at the Universität Potsdam.</td>
 </tr>
 <tr>
