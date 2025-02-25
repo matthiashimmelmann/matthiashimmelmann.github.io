@@ -57,7 +57,7 @@ description: Matthias Himmelmann.
 
   <tr>
         <td>2024, Talk</td>
-        <td><i>Optimization in Geometric Materials</i>. Discrete Algebra and Geometry Seminar, TU Eindhoven, Netherlands.</td>
+        <td><i>Optimization in Geometric Materials</i>. <a href="https://sites.google.com/view/appliedgeometryalgebra/home/seminars">Discrete Algebra and Geometry Seminar</a>, TU Eindhoven, Netherlands.</td>
   </tr>
 
   <tr>
