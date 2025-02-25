@@ -39,14 +39,30 @@ description: Matthias Himmelmann.
     </tr>
   
   <tr><td><h4><br>Presentations</h4></td></tr>
-    <tr>
+  
+  <tr>
+        <td>2025, Talk</td>
+        <td><i>Sampling the Space of Monostationarity in the Dual Phosphorylation Network</i>. <a href="https://www.siam.org/conferences-events/siam-conferences/ag25/">SIAM Conference on Applied Algebraic Geometry</a>, University of Wisconsin, Madison, WI, USA.</td>
+  </tr>
+
+  <tr>
+        <td>2025, Talk</td>
+        <td><i>Geometric Modeling of Entanglements in Space</i>. <a href="https://icerm.brown.edu/program/semester_program_workshop/sp-s25-w3">Geometry of Materials</a>, ICERM, Brown University, Providence, RI, USA.</td>
+  </tr>
+
+  <tr>
+        <td>2025, Poster</td>
+        <td><i>Exploring the Homogeneity of Disordered Minimal Surfaces</i>. <a href="https://icerm.brown.edu/program/semester_program_workshop/sp-s25-w1">Circle Packings, Minimal Surfaces, and Discrete Differential Geometry</a>, ICERM, Brown University, Providence, RI, USA.</td>
+  </tr>
+
+  <tr>
         <td>2024, Talk</td>
         <td><i>Optimization in Geometric Materials</i>. Discrete Algebra and Geometry Seminar, TU Eindhoven, Netherlands.</td>
   </tr>
 
   <tr>
         <td>2024, <a href="/documents/Exploring_the_Homogeneity_of_Disordered_Minimal_Surfaces-1.pdf">Poster</a></td>
-        <td><i>Exploring the Homogeneity of Disordered Minimal Surfaces</i>. <a href="https://www.phys.kindai.ac.jp/gyroidiseverywhere/about/">Gyroid is everywhere</a>, Kindai University, Osaka, Japan</td>
+        <td><i>Exploring the Homogeneity of Disordered Minimal Surfaces</i>. <a href="https://www.phys.kindai.ac.jp/gyroidiseverywhere/about/">Gyroid is everywhere</a>, Kindai University, Osaka, Japan.</td>
   </tr>
   
   <tr>
