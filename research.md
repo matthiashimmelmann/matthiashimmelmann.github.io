@@ -6,13 +6,17 @@ description: Matthias Himmelmann.
 ---
 <table style="width:100%; font-size: 90%;">
     <tr><td><h4><br>Publications</h4></td></tr>
+        <tr>
+        <td>2025+, submitted</td>
+        <td><b>Matthias Himmelmann</b>, Martin Pedersen, Michael Klatt, Philipp Schönhöfer, Myfanwy Evans, Gerd Schröder-Turk: <i>Amorphous bicontinuous minimal surface models and the superior Gaussian curvature uniformity of Diamond, Primitive and Gyroid surfaces</i>.</td>
+    </tr>
     <tr>
         <td>2025</td>
         <td>Alex Heaton and <b>Matthias Himmelmann</b>: <a href="https://www.sciencedirect.com/science/article/pii/S0925772124000695"><i>Computing Euclidean distance and maximum likelihood retraction maps for constrained optimization</i></a>. Computational Geomety 126</td>
     </tr>
     <tr>
         <td>2024</td>
-        <td>May Cai, <b>Matthias Himmelmann</b> and Birte Ostermann: <a href="https://link.springer.com/article/10.1007/s10910-024-01687-5"><i>Empirically Exploring the Space of Monostationarity in Dual Phosphorylation</i></a>. Journal of Mathematical Chemistry.</td>
+        <td>May Cai, <b>Matthias Himmelmann</b> and Birte Ostermann: <a href="https://link.springer.com/article/10.1007/s10910-024-01687-5"><i>Empirically Exploring the Space of Monostationarity in Dual Phosphorylation</i></a>. Journal of Mathematical Chemistry</td>
     </tr>
     <tr>
         <td>2024</td>
@@ -23,7 +27,7 @@ description: Matthias Himmelmann.
     <tr><td><h4><br>Theses</h4></td></tr>
     <tr>
         <td>2024, Ph.D.</td>
-        <td><a href="/documents/himmelmann_diss.pdf">Optimization in Geometric Materials</a>. Supervised by Myfanwy Evans and Alexander Heaton.</td>
+        <td><a href="https://doi.org/10.25932/publishup-66927">Optimization in Geometric Materials</a>. Supervised by Myfanwy Evans and Alexander Heaton.</td>
     </tr>
     <tr>
         <td>2021, Master</td>
