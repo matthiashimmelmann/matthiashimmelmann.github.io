@@ -108,6 +108,12 @@ description: Matthias Himmelmann.
 
 
 <tr><td><h4><br>Software Projects</h4></td></tr>
+
+<tr>
+  <td>2025</td>
+  <td><a href="https://github.com/matthiashimmelmann/DeformationPaths.jl">DeformationPaths.jl</a>: A Julia package for the computation of deformation paths for a variety of geometric constraint systems.</td>
+</tr>
+
 <tr>
   <td>2024</td>
   <td><a href="https://github.com/PyRigi/PyRigi">PyRigi</a>: A general-purpose Python package concerning the rigidity and flexibility of bar-and-joint frameworks.</td>
