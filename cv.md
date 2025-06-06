@@ -15,7 +15,11 @@ description: Matthias Himmelmann.
 </tr>
 <tr>
     <td>2023</td>
-    <td>Research Stay at the Fields Institute, Toronto in the context of the Focus Program on Geometric Constraint Systems</td>
+    <td>Research Stay at RICAM, Johannes Kepler University Linz in the context of the Special Semester on "Rigidity and Flexibility"</td>
+</tr>
+<tr>
+    <td>2023</td>
+    <td>Research Stay at the Fields Institute, Toronto in the context of the Focus Program on "Geometric Constraint Systems"</td>
 </tr>
 <tr>
     <td>2018 - 2020</td>
@@ -35,8 +39,12 @@ description: Matthias Himmelmann.
 <tr><td><h4><br>Work Experience</h4></td></tr>
 
 <tr>
+    <td>2025 - today</td>
+    <td>Postdoc at the Institute of Analysis and Algebra, Technische Universität Braunschweig.</td>
+</tr>
+<tr>
     <td>2025</td>
-    <td>Postdoctoral fellow at the ICERM, Brown University, Providence, RI, USA.</td>
+    <td>Postdoctoral fellow at the ICERM, Brown University, Providence, RI.</td>
 </tr>
 <tr>
     <td>2021 - 2025</td>
