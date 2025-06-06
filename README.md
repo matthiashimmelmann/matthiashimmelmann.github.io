@@ -1,13 +1,13 @@
-At the Universität Potsdam and Berlin Mathematical School, I am studying as a third-year PhD student under the supervision of <a href="https://www.math.uni-potsdam.de/professuren/applied-geometry-and-topology/team/prof-dr-myfanwy-evans/">Myfanwy Evans</a>. My main fields of interest are applied algebraic geometry and data science. I am always looking for exciting ways to intersect these topics.  
+Currently, I am a postdoc at the Applied Algebra group of <a href="http://www.iaa.tu-bs.de/timodewolff/">Timo de Wolff</a> at the Technische Universität Braunschweig. Prior to that, I was a postdoctoral fellow at the Institute for Computational and Experimental Research in Mathematics (ICERM) at Brown University in the context of the Semester program on <a href="https://icerm.brown.edu/program/semester_program/sp-s25#section-3">"Geometry of Materials, Packings and Rigid Frameworks"</a>. My main fields of interest are applied algebraic geometry, geometric modeling and the development of (numerical) software-solutions for mathematical problems. I am always looking for interesting ways to intersect these topics. 
 
-Using code, I develop tools that help to model and visualize mathematics. At the moment, I am trying to apply algebro-geometric techniques to better understand discontinuous behavior of materials, especially tensegrity frameworks.  
+Using code, I develop tools that help to model and visualize mathematics. At the moment, I am trying to apply algebro-geometric techniques to better understand discontinuous behavior in materials, especially tensegrity frameworks. Furthermore, I am interested in modelling porous materials such as sponge phases, aided by minimal surfaces.
 
 Below, a few milestones of my academic career are listed. 
 
 <table style="width:100%">
 <tr><td><h3>Education</h3></td></tr>
 <tr>
-    <td>2021 - today</td>
+    <td>2021 - 2025</td>
     <td>PhD student at the Universität Potsdam under the supervision of Myfanwy Evans and Phase II student at the Berlin Mathematical School</td>
 </tr>
 <tr>
