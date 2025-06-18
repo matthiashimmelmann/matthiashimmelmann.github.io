@@ -6,9 +6,17 @@ description: Matthias Himmelmann.
 ---
 <table style="width:100%; font-size: 90%;">
     <tr><td><h4><br>Publications</h4></td></tr>
-        <tr>
-        <td>2025+, submitted</td>
-        <td><b>Matthias Himmelmann</b>, Martin Pedersen, Michael Klatt, Philipp Schönhöfer, Myfanwy Evans, Gerd Schröder-Turk: <i>Amorphous bicontinuous minimal surface models and the superior Gaussian curvature uniformity of Diamond, Primitive and Gyroid surfaces</i>.</td>
+    <tr>
+        <td>2025, preprint</td>
+        <td>Matteo Gallet, Georg Grasegger, <b>Matthias Himmelmann</b>, Jan Legerský: <a href="https://doi.org/10.48550/arXiv.2505.22652"><i>PyRigi - a general-purpose Python package for the rigidity and flexibility of bar-and-joint frameworks</i></a>.</td>
+    </tr>
+    <tr>
+        <td>2025, preprint</td>
+        <td><b>Matthias Himmelmann</b>, Bernd Schulze, Martin winter: <a href="https://doi.org/10.48550/arXiv.2505.00874"><i>Rigidity of polytopes with edge length and coplanarity constraints</i></a>.</td>
+    </tr>
+    <tr>
+        <td>2025, preprint</td>
+        <td><b>Matthias Himmelmann</b>, Martin Pedersen, Michael Klatt, Philipp Schönhöfer, Myfanwy Evans, Gerd Schröder-Turk: <a href="https://www.researchsquare.com/article/rs-6098054/v1"><i>Amorphous bicontinuous minimal surface models and the superior Gaussian curvature uniformity of Diamond, Primitive and Gyroid surfaces</i></a>.</td>
     </tr>
     <tr>
         <td>2025</td>
@@ -42,8 +50,20 @@ description: Matthias Himmelmann.
   
   <tr>
         <td>2025, Talk</td>
+        <td><i>PyRigi: A toolbox for the rigidity and flexibility of bar-joint frameworks</i>. <a href="http://www.algebra.uni-linz.ac.at/oemgdmv25/program.php/">The Annual 2025 ÖMG-DMV Meeting</a>, Johannes Kepler University of Linz, Austria.</td>
+  </tr>
+
+
+  <tr>
+        <td>2025, Talk</td>
         <td><i>Sampling the Space of Monostationarity in the Dual Phosphorylation Network</i>. <a href="https://www.siam.org/conferences-events/siam-conferences/ag25/">SIAM Conference on Applied Algebraic Geometry</a>, University of Wisconsin, Madison, WI, USA.</td>
   </tr>
+
+  <tr>
+        <td>2025, Talk</td>
+        <td><i>PyRigi: A general-purpose Python package for the rigidity and flexibility of bar-and-joint frameworks</i>. <a href="https://www.lancaster.ac.uk/library/whats-on/mathematics-ai-and-data-science-for-material-innovations-madsmin-9th-13th-june/">Mathematics, Ai and Data Science for Material Innovations (MADSMIN)</a>, University of Lancaster, UK.</td>
+  </tr>
+
 
   <tr>
         <td>2025, Talk</td>
