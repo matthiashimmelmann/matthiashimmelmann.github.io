@@ -50,7 +50,7 @@ description: Matthias Himmelmann.
   
   <tr>
         <td>2025, Talk</td>
-        <td><i>PyRigi: A toolbox for the rigidity and flexibility of bar-joint frameworks</i>. <a href="http://www.algebra.uni-linz.ac.at/oemgdmv25/program.php/">The Annual 2025 ÖMG-DMV Meeting</a>, Johannes Kepler University of Linz, Austria.</td>
+        <td><i>PyRigi: A toolbox for the rigidity and flexibility of bar-joint frameworks</i>. <a href="https://www.jku.at/en/faculty-of-engineering-natural-sciences/organization/subject-areas/mathematics/oemg-dmv-2025/">The Annual 2025 ÖMG-DMV Meeting</a>, Johannes Kepler University of Linz, Austria.</td>
   </tr>
 
 
