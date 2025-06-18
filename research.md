@@ -71,7 +71,7 @@ description: Matthias Himmelmann.
   </tr>
 
   <tr>
-        <td>2025, Poster</td>
+        <td>2025, <a href="/documents/Exploring_the_Homogeneity_of_Disordered_Minimal_Surfaces.pdf">Poster</a></td>
         <td><i>Exploring the Homogeneity of Disordered Minimal Surfaces</i>. <a href="https://icerm.brown.edu/program/semester_program_workshop/sp-s25-w1">Circle Packings, Minimal Surfaces, and Discrete Differential Geometry</a>, ICERM, Brown University, Providence, RI, USA.</td>
   </tr>
 
@@ -81,7 +81,7 @@ description: Matthias Himmelmann.
   </tr>
 
   <tr>
-        <td>2024, <a href="/documents/Exploring_the_Homogeneity_of_Disordered_Minimal_Surfaces-1.pdf">Poster</a></td>
+        <td>2024, <a href="/documents/Exploring_the_Homogeneity_of_Disordered_Minimal_Surfaces.pdf">Poster</a></td>
         <td><i>Exploring the Homogeneity of Disordered Minimal Surfaces</i>. <a href="https://www.phys.kindai.ac.jp/gyroidiseverywhere/about/">Gyroid is everywhere</a>, Kindai University, Osaka, Japan.</td>
   </tr>
   
