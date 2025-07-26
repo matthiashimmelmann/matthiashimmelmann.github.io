@@ -70,6 +70,12 @@ description: Matthias Himmelmann.
         <td><i>Geometric Modeling of Entanglements in Space</i>. <a href="https://icerm.brown.edu/program/semester_program_workshop/sp-s25-w3">Geometry of Materials</a>, ICERM, Brown University, Providence, RI, USA.</td>
   </tr>
 
+ <tr>
+        <td>2025, Poster</td>
+        <td><i>Riemannian Optimization over Semialgebraic Sets</i>. <a href="http://www.iaa.tu-bs.de/AppliedAlgebra/SummerSchool2025/Summer_school_2025.html"> Summer School on Nonlinear Optimization and Combinatorics</a>, Technische Universität Braunschweig, Germany.</td>
+  </tr>
+
+
   <tr>
         <td>2025, <a href="/documents/Exploring_the_Homogeneity_of_Disordered_Minimal_Surfaces.pdf">Poster</a></td>
         <td><i>Exploring the Homogeneity of Disordered Minimal Surfaces</i>. <a href="https://icerm.brown.edu/program/semester_program_workshop/sp-s25-w1">Circle Packings, Minimal Surfaces, and Discrete Differential Geometry</a>, ICERM, Brown University, Providence, RI, USA.</td>
