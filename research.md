@@ -53,6 +53,10 @@ description: Matthias Himmelmann.
         <td><i>PyRigi: A toolbox for the rigidity and flexibility of bar-joint frameworks</i>. <a href="https://www.jku.at/en/faculty-of-engineering-natural-sciences/organization/subject-areas/mathematics/oemg-dmv-2025/">The Annual 2025 ÖMG-DMV Meeting</a>, Johannes Kepler University of Linz, Austria.</td>
   </tr>
 
+ <tr>
+        <td>2025, <a href="/documents/Riemannian_Optimization_over_Semialgebraic_Sets.pdf">Poster</a></td>
+        <td><i>Riemannian Optimization over Semialgebraic Sets</i>. <a href="http://www.iaa.tu-bs.de/AppliedAlgebra/SummerSchool2025/Summer_school_2025.html"> Summer School on Nonlinear Optimization and Combinatorics</a>, Technische Universität Braunschweig, Germany.</td>
+  </tr>
 
   <tr>
         <td>2025, Talk</td>
@@ -69,12 +73,6 @@ description: Matthias Himmelmann.
         <td>2025, Talk</td>
         <td><i>Geometric Modeling of Entanglements in Space</i>. <a href="https://icerm.brown.edu/program/semester_program_workshop/sp-s25-w3">Geometry of Materials</a>, ICERM, Brown University, Providence, RI, USA.</td>
   </tr>
-
- <tr>
-        <td>2025, Poster</td>
-        <td><i>Riemannian Optimization over Semialgebraic Sets</i>. <a href="http://www.iaa.tu-bs.de/AppliedAlgebra/SummerSchool2025/Summer_school_2025.html"> Summer School on Nonlinear Optimization and Combinatorics</a>, Technische Universität Braunschweig, Germany.</td>
-  </tr>
-
 
   <tr>
         <td>2025, <a href="/documents/Exploring_the_Homogeneity_of_Disordered_Minimal_Surfaces.pdf">Poster</a></td>
