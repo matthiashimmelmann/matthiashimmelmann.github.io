@@ -12,7 +12,7 @@ description: Matthias Himmelmann.
     </tr>
     <tr>
         <td>2025, preprint</td>
-        <td><b>Matthias Himmelmann</b>, Bernd Schulze, Martin winter: <a href="https://doi.org/10.48550/arXiv.2505.00874"><i>Rigidity of polytopes with edge length and coplanarity constraints</i></a>.</td>
+        <td><b>Matthias Himmelmann</b>, Bernd Schulze, Martin Winter: <a href="https://doi.org/10.48550/arXiv.2505.00874"><i>Rigidity of polytopes with edge length and coplanarity constraints</i></a>.</td>
     </tr>
     <tr>
         <td>2025, preprint</td>
