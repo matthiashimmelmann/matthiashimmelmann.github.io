@@ -7,7 +7,7 @@ description: Matthias Himmelmann.
 ---
 <p style="font-size: 90%;">
 <h3>Winter Semester 2025/26</h3>
-  Lecture and Exercise: Machine Learning with Neural Networks<b>
+  Lecture and Exercise: Machine Learning with Neural Networks<br>
   Lecture and Exercise: Ramp-Up Course Mathematics
 <h3>Winter Semester 2023/24</h3>
   Seminar: Algorithmic Algebraic Geometry. <a href="https://moodle2.uni-potsdam.de/course/view.php?id=38570">Moodle</a>
