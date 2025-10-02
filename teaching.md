@@ -14,15 +14,15 @@ description: Matthias Himmelmann.
 <h3>Summer Semester 2022</h3>
   Lecture: Mathematical Problem Solving. <a href="https://moodle2.uni-potsdam.de/course/view.php?id=33151">Moodle</a>
 <h3>Winter Semester 2020/21</h3>
-  Teaching Assistant in Computeralgebra
+  Exercise: Computeralgebra
 <h3>Summer Semester 2018</h3>
-  Mentor of Linear Algebra for Computer Scientists
+  Mentor: Linear Algebra for Computer Scientists
 <h3>Summer Semester 2017</h3>
-  Teaching Assistent in Mathematics for Geoscientists II
+  Exercise: Mathematics for Geoscientists II
 <h3>Winter Semester 2016/17</h3>
-  Teaching Assistent in Mathematics for Geoscientists I
+  Exercise: Mathematics for Geoscientists I
 <h3>Summer Semester 2016</h3>
-  Teaching Assistent in Computer-oriented Mathematics II
+  Exercise: Computer-oriented Mathematics II
 </p>
 
 <br>
