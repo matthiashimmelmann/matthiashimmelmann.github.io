@@ -16,7 +16,7 @@ description: Matthias Himmelmann.
     </tr>
     <tr>
         <td>2025, preprint</td>
-        <td><b>Matthias Himmelmann</b>, Martin Pedersen, Michael Klatt, Philipp Schönhöfer, Myfanwy Evans, Gerd Schröder-Turk: <a href="https://www.researchsquare.com/article/rs-6098054/v1"><i>Amorphous bicontinuous minimal surface models and the superior Gaussian curvature uniformity of Diamond, Primitive and Gyroid surfaces</i></a>.</td>
+        <td><b>Matthias Himmelmann</b>, Martin Cramer Pedersen, Michael Klatt, Philipp Schönhöfer, Myfanwy Evans, Gerd Schröder-Turk: <a href="https://www.researchsquare.com/article/rs-6098054/v1"><i>Amorphous bicontinuous minimal surface models and the superior Gaussian curvature uniformity of Diamond, Primitive and Gyroid surfaces</i></a>.</td>
     </tr>
     <tr>
         <td>2025</td>
