@@ -2,6 +2,11 @@ on:
   push:
   pull_request:
     types: [opened, synchronize]
+
+permissions:
+  contents: write
+  id-token: write  # required if using OIDC (optional)
+  
 jobs:
   build:
     runs-on: ubuntu-latest
