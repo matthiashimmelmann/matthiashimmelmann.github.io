@@ -11,12 +11,12 @@ description: Matthias Himmelmann.
         <td>Matteo Gallet, Georg Grasegger, <b>Matthias Himmelmann</b>, Jan Legerský: <a href="https://doi.org/10.48550/arXiv.2505.22652"><i>PyRigi - a general-purpose Python package for the rigidity and flexibility of bar-and-joint frameworks</i></a>.</td>
     </tr>
     <tr>
-        <td>2025, preprint</td>
-        <td><b>Matthias Himmelmann</b>, Bernd Schulze, Martin Winter: <a href="https://doi.org/10.48550/arXiv.2505.00874"><i>Rigidity of polytopes with edge length and coplanarity constraints</i></a>.</td>
+        <td>2025</td>
+        <td><b>Matthias Himmelmann</b>, Bernd Schulze, Martin Winter: <a href="https://doi.org/10.48550/arXiv.2505.00874"><i>Rigidity of polytopes with edge length and coplanarity constraints</i></a>. International Mathematics Research Notices</td>
     </tr>
     <tr>
-        <td>2025, preprint</td>
-        <td><b>Matthias Himmelmann</b>, Martin Cramer Pedersen, Michael Klatt, Philipp Schönhöfer, Myfanwy Evans, Gerd Schröder-Turk: <a href="https://www.researchsquare.com/article/rs-6098054/v1"><i>Amorphous bicontinuous minimal surface models and the superior Gaussian curvature uniformity of Diamond, Primitive and Gyroid surfaces</i></a>.</td>
+        <td>2025</td>
+        <td><b>Matthias Himmelmann</b>, Martin Cramer Pedersen, Michael Klatt, Philipp Schönhöfer, Myfanwy Evans, Gerd Schröder-Turk: <a href="https://www.researchsquare.com/article/rs-6098054/v1"><i>Amorphous bicontinuous minimal surface models and the superior Gaussian curvature uniformity of Diamond, Primitive and Gyroid surfaces</i></a>. Proceedings of the Royal Society A</td>
     </tr>
     <tr>
         <td>2025</td>
