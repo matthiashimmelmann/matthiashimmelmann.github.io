@@ -6,6 +6,11 @@ description: Matthias Himmelmann.
 ---
 <table style="width:100%; font-size: 90%;">
     <tr><td><h4><br>Publications</h4></td></tr>
+        <tr>
+        <td>2026, preprint</td>
+        <td><b>Matthias Himmelmann</b>: <a href="https://doi.org/10.48550/arXiv.2602.08016"><i>Approximating Continuous Motions of Geometric Constraint Systems</i></a>.</td>
+    </tr>
+
     <tr>
         <td>2025, preprint</td>
         <td>Matteo Gallet, Georg Grasegger, <b>Matthias Himmelmann</b>, Jan Legerský: <a href="https://doi.org/10.48550/arXiv.2505.22652"><i>PyRigi - a general-purpose Python package for the rigidity and flexibility of bar-and-joint frameworks</i></a>.</td>
@@ -14,9 +19,10 @@ description: Matthias Himmelmann.
         <td>2025</td>
         <td><b>Matthias Himmelmann</b>, Bernd Schulze, Martin Winter: <a href="https://doi.org/10.48550/arXiv.2505.00874"><i>Rigidity of polytopes with edge length and coplanarity constraints</i></a>. International Mathematics Research Notices</td>
     </tr>
+
     <tr>
         <td>2025</td>
-        <td><b>Matthias Himmelmann</b>, Martin Cramer Pedersen, Michael Klatt, Philipp Schönhöfer, Myfanwy Evans, Gerd Schröder-Turk: <a href="https://www.researchsquare.com/article/rs-6098054/v1"><i>Amorphous bicontinuous minimal surface models and the superior Gaussian curvature uniformity of Diamond, Primitive and Gyroid surfaces</i></a>. Proceedings of the Royal Society A</td>
+        <td><b>Matthias Himmelmann</b>, Martin Cramer Pedersen, Michael Klatt, Philipp Schönhöfer, Myfanwy Evans, Gerd Schröder-Turk: <a href="https://doi.org/10.1098/rspa.2025.0275"><i>Amorphous bicontinuous minimal surface models and the superior Gaussian curvature uniformity of Diamond, Primitive and Gyroid surfaces</i></a>. Proceedings of the Royal Society A 482</td>
     </tr>
     <tr>
         <td>2025</td>
@@ -48,6 +54,17 @@ description: Matthias Himmelmann.
   
   <tr><td><h4><br>Presentations</h4></td></tr>
   
+
+  <tr>
+        <td>2026, Talk</td>
+        <td><i>Higher-order Rigidity of (certain) geometric constraint systems</i>. <a href="https://www.mis.mpg.de/events/series/seminar-on-nonlinear-algebra/">Seminar on Nonlinear Algebra</a>, Max Planck Institute for Mathematics in the Sciences, Leipzig, Germany.</td>
+  </tr>
+
+<tr>
+        <td>2026, <a href="/documents/Positivity__Convexity_and_Computation_in_Rigidity_Theory.pdf">Poster</a></td>
+        <td><i>Workshop on "Positivity, Convexity and Computation in Rigidity Theory"</i>. <a href="https://www.iaa.tu-bs.de/AppliedAlgebra/workshop_rigidity_2026/">Positivity, Convexity and Computation in Rigidity Theory</a>, TU Braunschweig, Germany.</td>
+  </tr>
+
   <tr>
         <td>2025, Talk</td>
         <td><i>PyRigi: A toolbox for the rigidity and flexibility of bar-joint frameworks</i>. <a href="https://www.jku.at/en/faculty-of-engineering-natural-sciences/organization/subject-areas/mathematics/oemg-dmv-2025/">The Annual 2025 ÖMG-DMV Meeting</a>, Johannes Kepler University of Linz, Austria.</td>
