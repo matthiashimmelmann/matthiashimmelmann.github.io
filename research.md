@@ -6,7 +6,8 @@ description: Matthias Himmelmann.
 ---
 <table style="width:100%; font-size: 90%;">
     <tr><td><h4><br>Publications</h4></td></tr>
-        <tr>
+    
+    <tr>
         <td>2026, preprint</td>
         <td><b>Matthias Himmelmann</b>: <a href="https://doi.org/10.48550/arXiv.2602.08016"><i>Approximating Continuous Motions of Geometric Constraint Systems</i></a>.</td>
     </tr>
