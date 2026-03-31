@@ -2,7 +2,7 @@
 layout: default
 title: "Research Activities"
 permalink: /research/
-description: Matthias Himmelmann.
+description: Matthias Adrian-Himmelmann.
 ---
 <table style="width:100%; font-size: 90%;">
     <tr><td><h4><br>Publications</h4></td></tr>

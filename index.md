@@ -1,5 +1,5 @@
 ---
-title: "Matthias Himmelmann"
+title: "Matthias Adrian-Himmelmann"
 layout: default
 tags: home
 description: Postdoc at Technische Universität Braunschweig.
