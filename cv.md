@@ -3,7 +3,7 @@ layout: default
 title: "Curriculum Vitae"
 permalink: /cv/
 tags: cv
-description: Matthias Himmelmann.
+description: Matthias Adrian-Himmelmann.
 ---
 <table style="width:100%; font-size: 90%;">
 
