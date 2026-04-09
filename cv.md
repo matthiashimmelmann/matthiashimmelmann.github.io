@@ -10,7 +10,7 @@ description: Matthias Adrian-Himmelmann.
 <tr><td><h4><br>Education</h4></td></tr>
 <tr>
     <td>2021 - 2025</td>
-    <td>Ph.D. at the Universität Potsdam under the supervision of Myfanwy Evans and Phase II student at the Berlin Mathematical School<br>
+    <td>Ph.D. at the Universität Potsdam under the supervision of Myfanwy Evans and Phase II student at the Berlin Mathematical School<br> 
     (<a href="/documents/himmelmann_diss.pdf">Dissertation</a>)</td>
 </tr>
 <tr>
