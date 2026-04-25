@@ -8,11 +8,7 @@ description: Matthias Adrian-Himmelmann.
 <p style="font-size: 90%;">
 <h3>Summer Semester 2026</h3>
   <p>Lecture and Exercise: Geometry. <a href="https://studip.tu-braunschweig.de/dispatch.php/course/details?sem_id=660858baa612421a653fc248e0620994&again=yes">Stud.IP</a></p>
-<<<<<<< HEAD
-  <p>Seminar: Computational Algebra and Applications. <a href="https://studip.tu-braunschweig.de/dispatch.php/course/details?sem_id=660858baa612421a653fc248e0620994&again=yes">Stud.IP</a></p>
-=======
   <p>Seminar: Computational Algebra and Applications. <a href="https://studip.tu-braunschweig.de/dispatch.php/course/details?sem_id=46a132bba7151e0226ad7cce2b229f58&again=yes">Stud.IP</a></p>
->>>>>>> bc42008 (Changed name)
 <h3>Winter Semester 2025/26</h3>
   <p>Lecture and Exercise: Machine Learning with Neural Networks. <a href="https://studip.tu-braunschweig.de/dispatch.php/course/details?sem_id=4b9643b86bfc55f84a90b433a0b77300&again=yes">Stud.IP</a></p>
   <p>Lecture and Exercise: Ramp-Up Course Mathematics. <a href="https://studip.tu-braunschweig.de/dispatch.php/course/details?sem_id=cfb269d27864c01205508ab76a563062&again=yes">Stud.IP</a></p>
