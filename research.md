@@ -13,12 +13,12 @@ description: Matthias Adrian-Himmelmann.
     </tr>
 
     <tr>
-        <td>2025, preprint</td>
+        <td>2026, preprint</td>
         <td>Matteo Gallet, Georg Grasegger, <b>Matthias Himmelmann</b>, Jan Legerský: <a href="https://doi.org/10.48550/arXiv.2505.22652"><i>PyRigi - a general-purpose Python package for the rigidity and flexibility of bar-and-joint frameworks</i></a>.</td>
     </tr>
     <tr>
-        <td>2025</td>
-        <td><b>Matthias Himmelmann</b>, Bernd Schulze, Martin Winter: <a href="https://doi.org/10.48550/arXiv.2505.00874"><i>Rigidity of polytopes with edge length and coplanarity constraints</i></a>.</td>
+        <td>2026</td>
+        <td><b>Matthias Himmelmann</b>, Bernd Schulze, Martin Winter: <a href="https://doi.org/10.1093/imrn/rnag055"><i>Rigidity of polytopes with edge length and coplanarity constraints</i></a>. International Mathematics Research Notices 2026.7</td>
     </tr>
 
     <tr>
@@ -30,8 +30,8 @@ description: Matthias Adrian-Himmelmann.
         <td>Alex Heaton and <b>Matthias Himmelmann</b>: <a href="https://www.sciencedirect.com/science/article/pii/S0925772124000695"><i>Computing Euclidean distance and maximum likelihood retraction maps for constrained optimization</i></a>. Computational Geomety 126</td>
     </tr>
     <tr>
-        <td>2024</td>
-        <td>May Cai, <b>Matthias Himmelmann</b> and Birte Ostermann: <a href="https://link.springer.com/article/10.1007/s10910-024-01687-5"><i>Empirically Exploring the Space of Monostationarity in Dual Phosphorylation</i></a>. Journal of Mathematical Chemistry</td>
+        <td>2025</td>
+        <td>May Cai, <b>Matthias Himmelmann</b> and Birte Ostermann: <a href="https://doi.org/10.1007/s10910-024-01687-5"><i>Empirically Exploring the Space of Monostationarity in Dual Phosphorylation</i></a>. Journal of Mathematical Chemistry 63</td>
     </tr>
     <tr>
         <td>2024</td>
