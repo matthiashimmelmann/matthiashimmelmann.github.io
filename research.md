@@ -13,12 +13,12 @@ description: Matthias Adrian-Himmelmann.
     </tr>
 
     <tr>
-        <td>2026, preprint</td>
-        <td>Matteo Gallet, Georg Grasegger, <b>Matthias Himmelmann</b>, Jan Legerský: <a href="https://doi.org/10.48550/arXiv.2505.22652"><i>PyRigi - a general-purpose Python package for the rigidity and flexibility of bar-and-joint frameworks</i></a>.</td>
+        <td>2026</td>
+        <td> <b>Matthias Adrian-Himmelmann</b>Matteo Gallet, Georg Grasegger, Jan Legerský: <a href="https://doi.org/10.1145/3815171"><i>PyRigi - a general-purpose Python package for the rigidity and flexibility of bar-and-joint frameworks</i></a>. ACM Transactions on Mathematical Software.</td>
     </tr>
     <tr>
         <td>2026</td>
-        <td><b>Matthias Himmelmann</b>, Bernd Schulze, Martin Winter: <a href="https://doi.org/10.1093/imrn/rnag055"><i>Rigidity of polytopes with edge length and coplanarity constraints</i></a>. International Mathematics Research Notices 2026.7</td>
+        <td><b>Matthias Adrian-Himmelmann</b>, Bernd Schulze, Martin Winter: <a href="https://doi.org/10.1093/imrn/rnag055"><i>Rigidity of polytopes with edge length and coplanarity constraints</i></a>. International Mathematics Research Notices 2026.7</td>
     </tr>
 
     <tr>
