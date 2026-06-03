@@ -54,7 +54,11 @@ description: Matthias Adrian-Himmelmann.
     </tr>
   
   <tr><td><h4><br>Presentations</h4></td></tr>
-  
+    <tr>
+        <td>2026, Talk</td>
+        <td><i>Polytopes and More General Geometric Constraint Systems in Rigidity Theory</i>. <a href="https://wis.kuleuven.be/agenda/sem-ntag/ay2025-2026/sem038">Seminar on Number Theory and Algebraic Geometry</a>, KU Leuven, Belgium.</td>
+  </tr>
+
 
   <tr>
         <td>2026, Talk</td>
