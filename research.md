@@ -9,7 +9,12 @@ description: Matthias Adrian-Himmelmann.
     
     <tr>
         <td>2026, preprint</td>
-        <td><b>Matthias Himmelmann</b>: <a href="https://doi.org/10.48550/arXiv.2602.08016"><i>Approximating Continuous Motions of Geometric Constraint Systems</i></a>.</td>
+        <td><b>Matthias Adrian-Himmelmann, Martin Winter, Zhen Zhang</b>: <a href="https://doi.org/10.48550/arXiv.2607.09252"><i>Deformations and second-order rigidity of polytopes</i></a>.</td>
+    </tr>
+
+    <tr>
+        <td>2026, preprint</td>
+        <td><b>Matthias Adrian-Himmelmann</b>: <a href="https://doi.org/10.48550/arXiv.2602.08016"><i>Approximating Continuous Motions of Geometric Constraint Systems</i></a>.</td>
     </tr>
 
     <tr>
